@@ -1,264 +1,774 @@
 fileFormatVersion: 2
 guid: 751ca3955f3da5741ab5d17600034faf
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: rural-tileset-tilex2_0
-    21300002: rural-tileset-tilex2_1
-    21300004: rural-tileset-tilex2_2
-    21300006: rural-tileset-tilex2_3
-    21300008: rural-tileset-tilex2_4
-    21300010: rural-tileset-tilex2_5
-    21300012: rural-tileset-tilex2_6
-    21300014: rural-tileset-tilex2_7
-    21300016: rural-tileset-tilex2_8
-    21300018: rural-tileset-tilex2_9
-    21300020: rural-tileset-tilex2_10
-    21300022: rural-tileset-tilex2_11
-    21300024: rural-tileset-tilex2_12
-    21300026: rural-tileset-tilex2_13
-    21300028: rural-tileset-tilex2_14
-    21300030: rural-tileset-tilex2_15
-    21300032: rural-tileset-tilex2_16
-    21300034: rural-tileset-tilex2_17
-    21300036: rural-tileset-tilex2_18
-    21300038: rural-tileset-tilex2_19
-    21300040: rural-tileset-tilex2_20
-    21300042: rural-tileset-tilex2_21
-    21300044: rural-tileset-tilex2_22
-    21300046: rural-tileset-tilex2_23
-    21300048: rural-tileset-tilex2_24
-    21300050: rural-tileset-tilex2_25
-    21300052: rural-tileset-tilex2_26
-    21300054: rural-tileset-tilex2_27
-    21300056: rural-tileset-tilex2_28
-    21300058: rural-tileset-tilex2_29
-    21300060: rural-tileset-tilex2_30
-    21300062: rural-tileset-tilex2_31
-    21300064: rural-tileset-tilex2_32
-    21300066: rural-tileset-tilex2_33
-    21300068: rural-tileset-tilex2_34
-    21300070: rural-tileset-tilex2_35
-    21300072: rural-tileset-tilex2_36
-    21300074: rural-tileset-tilex2_37
-    21300076: rural-tileset-tilex2_38
-    21300078: rural-tileset-tilex2_39
-    21300080: rural-tileset-tilex2_40
-    21300082: rural-tileset-tilex2_41
-    21300084: rural-tileset-tilex2_42
-    21300086: rural-tileset-tilex2_43
-    21300088: rural-tileset-tilex2_44
-    21300090: rural-tileset-tilex2_45
-    21300092: rural-tileset-tilex2_46
-    21300094: rural-tileset-tilex2_47
-    21300096: rural-tileset-tilex2_48
-    21300098: rural-tileset-tilex2_49
-    21300100: rural-tileset-tilex2_50
-    21300102: rural-tileset-tilex2_51
-    21300104: rural-tileset-tilex2_52
-    21300106: rural-tileset-tilex2_53
-    21300108: rural-tileset-tilex2_54
-    21300110: rural-tileset-tilex2_55
-    21300112: rural-tileset-tilex2_56
-    21300114: rural-tileset-tilex2_57
-    21300116: rural-tileset-tilex2_58
-    21300118: rural-tileset-tilex2_59
-    21300120: rural-tileset-tilex2_60
-    21300122: rural-tileset-tilex2_61
-    21300124: rural-tileset-tilex2_62
-    21300126: rural-tileset-tilex2_63
-    21300128: rural-tileset-tilex2_64
-    21300130: rural-tileset-tilex2_65
-    21300132: rural-tileset-tilex2_66
-    21300134: rural-tileset-tilex2_67
-    21300136: rural-tileset-tilex2_68
-    21300138: rural-tileset-tilex2_69
-    21300140: rural-tileset-tilex2_70
-    21300142: rural-tileset-tilex2_71
-    21300144: rural-tileset-tilex2_72
-    21300146: rural-tileset-tilex2_73
-    21300148: rural-tileset-tilex2_74
-    21300150: rural-tileset-tilex2_75
-    21300152: rural-tileset-tilex2_76
-    21300154: rural-tileset-tilex2_77
-    21300156: rural-tileset-tilex2_78
-    21300158: rural-tileset-tilex2_79
-    21300160: rural-tileset-tilex2_80
-    21300162: rural-tileset-tilex2_81
-    21300164: rural-tileset-tilex2_82
-    21300166: rural-tileset-tilex2_83
-    21300168: rural-tileset-tilex2_84
-    21300170: rural-tileset-tilex2_85
-    21300172: rural-tileset-tilex2_86
-    21300174: rural-tileset-tilex2_87
-    21300176: rural-tileset-tilex2_88
-    21300178: rural-tileset-tilex2_89
-    21300180: rural-tileset-tilex2_90
-    21300182: rural-tileset-tilex2_91
-    21300184: rural-tileset-tilex2_92
-    21300186: rural-tileset-tilex2_93
-    21300188: rural-tileset-tilex2_94
-    21300190: rural-tileset-tilex2_95
-    21300192: rural-tileset-tilex2_96
-    21300194: rural-tileset-tilex2_97
-    21300196: rural-tileset-tilex2_98
-    21300198: rural-tileset-tilex2_99
-    21300200: rural-tileset-tilex2_100
-    21300202: rural-tileset-tilex2_101
-    21300204: rural-tileset-tilex2_102
-    21300206: rural-tileset-tilex2_103
-    21300208: rural-tileset-tilex2_104
-    21300210: rural-tileset-tilex2_105
-    21300212: rural-tileset-tilex2_106
-    21300214: rural-tileset-tilex2_107
-    21300216: rural-tileset-tilex2_108
-    21300218: rural-tileset-tilex2_109
-    21300220: rural-tileset-tilex2_110
-    21300222: rural-tileset-tilex2_111
-    21300224: rural-tileset-tilex2_112
-    21300226: rural-tileset-tilex2_113
-    21300228: rural-tileset-tilex2_114
-    21300230: rural-tileset-tilex2_115
-    21300232: rural-tileset-tilex2_116
-    21300234: rural-tileset-tilex2_117
-    21300236: rural-tileset-tilex2_118
-    21300238: rural-tileset-tilex2_119
-    21300240: rural-tileset-tilex2_120
-    21300242: rural-tileset-tilex2_121
-    21300244: rural-tileset-tilex2_122
-    21300246: rural-tileset-tilex2_123
-    21300248: rural-tileset-tilex2_124
-    21300250: rural-tileset-tilex2_125
-    21300252: rural-tileset-tilex2_126
-    21300254: rural-tileset-tilex2_127
-    21300256: rural-tileset-tilex2_128
-    21300258: rural-tileset-tilex2_129
-    21300260: rural-tileset-tilex2_130
-    21300262: rural-tileset-tilex2_131
-    21300264: rural-tileset-tilex2_132
-    21300266: rural-tileset-tilex2_133
-    21300268: rural-tileset-tilex2_134
-    21300270: rural-tileset-tilex2_135
-    21300272: rural-tileset-tilex2_136
-    21300274: rural-tileset-tilex2_137
-    21300276: rural-tileset-tilex2_138
-    21300278: rural-tileset-tilex2_139
-    21300280: rural-tileset-tilex2_140
-    21300282: rural-tileset-tilex2_141
-    21300284: rural-tileset-tilex2_142
-    21300286: rural-tileset-tilex2_143
-    21300288: rural-tileset-tilex2_144
-    21300290: rural-tileset-tilex2_145
-    21300292: rural-tileset-tilex2_146
-    21300294: rural-tileset-tilex2_147
-    21300296: rural-tileset-tilex2_148
-    21300298: rural-tileset-tilex2_149
-    21300300: rural-tileset-tilex2_150
-    21300302: rural-tileset-tilex2_151
-    21300304: rural-tileset-tilex2_152
-    21300306: rural-tileset-tilex2_153
-    21300308: rural-tileset-tilex2_154
-    21300310: rural-tileset-tilex2_155
-    21300312: rural-tileset-tilex2_156
-    21300314: rural-tileset-tilex2_157
-    21300316: rural-tileset-tilex2_158
-    21300318: rural-tileset-tilex2_159
-    21300320: rural-tileset-tilex2_160
-    21300322: rural-tileset-tilex2_161
-    21300324: rural-tileset-tilex2_162
-    21300326: rural-tileset-tilex2_163
-    21300328: rural-tileset-tilex2_164
-    21300330: rural-tileset-tilex2_165
-    21300332: rural-tileset-tilex2_166
-    21300334: rural-tileset-tilex2_167
-    21300336: rural-tileset-tilex2_168
-    21300338: rural-tileset-tilex2_169
-    21300340: rural-tileset-tilex2_170
-    21300342: rural-tileset-tilex2_171
-    21300344: rural-tileset-tilex2_172
-    21300346: rural-tileset-tilex2_173
-    21300348: rural-tileset-tilex2_174
-    21300350: rural-tileset-tilex2_175
-    21300352: rural-tileset-tilex2_176
-    21300354: rural-tileset-tilex2_177
-    21300356: rural-tileset-tilex2_178
-    21300358: rural-tileset-tilex2_179
-    21300360: rural-tileset-tilex2_180
-    21300362: rural-tileset-tilex2_181
-    21300364: rural-tileset-tilex2_182
-    21300366: rural-tileset-tilex2_183
-    21300368: rural-tileset-tilex2_184
-    21300370: rural-tileset-tilex2_185
-    21300372: rural-tileset-tilex2_186
-    21300374: rural-tileset-tilex2_187
-    21300376: rural-tileset-tilex2_188
-    21300378: rural-tileset-tilex2_189
-    21300380: rural-tileset-tilex2_190
-    21300382: rural-tileset-tilex2_191
-    21300384: rural-tileset-tilex2_192
-    21300386: rural-tileset-tilex2_193
-    21300388: rural-tileset-tilex2_194
-    21300390: rural-tileset-tilex2_195
-    21300392: rural-tileset-tilex2_196
-    21300394: rural-tileset-tilex2_197
-    21300396: rural-tileset-tilex2_198
-    21300398: rural-tileset-tilex2_199
-    21300400: rural-tileset-tilex2_200
-    21300402: rural-tileset-tilex2_201
-    21300404: rural-tileset-tilex2_202
-    21300406: rural-tileset-tilex2_203
-    21300408: rural-tileset-tilex2_204
-    21300410: rural-tileset-tilex2_205
-    21300412: rural-tileset-tilex2_206
-    21300414: rural-tileset-tilex2_207
-    21300416: rural-tileset-tilex2_208
-    21300418: rural-tileset-tilex2_209
-    21300420: rural-tileset-tilex2_210
-    21300422: rural-tileset-tilex2_211
-    21300424: rural-tileset-tilex2_212
-    21300426: rural-tileset-tilex2_213
-    21300428: rural-tileset-tilex2_214
-    21300430: rural-tileset-tilex2_215
-    21300432: rural-tileset-tilex2_216
-    21300434: rural-tileset-tilex2_217
-    21300436: rural-tileset-tilex2_218
-    21300438: rural-tileset-tilex2_219
-    21300440: rural-tileset-tilex2_220
-    21300442: rural-tileset-tilex2_221
-    21300444: rural-tileset-tilex2_222
-    21300446: rural-tileset-tilex2_223
-    21300448: rural-tileset-tilex2_224
-    21300450: rural-tileset-tilex2_225
-    21300452: rural-tileset-tilex2_226
-    21300454: rural-tileset-tilex2_227
-    21300456: rural-tileset-tilex2_228
-    21300458: rural-tileset-tilex2_229
-    21300460: rural-tileset-tilex2_230
-    21300462: rural-tileset-tilex2_231
-    21300464: rural-tileset-tilex2_232
-    21300466: rural-tileset-tilex2_233
-    21300468: rural-tileset-tilex2_234
-    21300470: rural-tileset-tilex2_235
-    21300472: rural-tileset-tilex2_236
-    21300474: rural-tileset-tilex2_237
-    21300476: rural-tileset-tilex2_238
-    21300478: rural-tileset-tilex2_239
-    21300480: rural-tileset-tilex2_240
-    21300482: rural-tileset-tilex2_241
-    21300484: rural-tileset-tilex2_242
-    21300486: rural-tileset-tilex2_243
-    21300488: rural-tileset-tilex2_244
-    21300490: rural-tileset-tilex2_245
-    21300492: rural-tileset-tilex2_246
-    21300494: rural-tileset-tilex2_247
-    21300496: rural-tileset-tilex2_248
-    21300498: rural-tileset-tilex2_249
-    21300500: rural-tileset-tilex2_250
-    21300502: rural-tileset-tilex2_251
-    21300504: rural-tileset-tilex2_252
-    21300506: rural-tileset-tilex2_253
-    21300508: rural-tileset-tilex2_254
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: rural-tileset-tilex2_0
+  - first:
+      213: 21300002
+    second: rural-tileset-tilex2_1
+  - first:
+      213: 21300004
+    second: rural-tileset-tilex2_2
+  - first:
+      213: 21300006
+    second: rural-tileset-tilex2_3
+  - first:
+      213: 21300008
+    second: rural-tileset-tilex2_4
+  - first:
+      213: 21300010
+    second: rural-tileset-tilex2_5
+  - first:
+      213: 21300012
+    second: rural-tileset-tilex2_6
+  - first:
+      213: 21300014
+    second: rural-tileset-tilex2_7
+  - first:
+      213: 21300016
+    second: rural-tileset-tilex2_8
+  - first:
+      213: 21300018
+    second: rural-tileset-tilex2_9
+  - first:
+      213: 21300020
+    second: rural-tileset-tilex2_10
+  - first:
+      213: 21300022
+    second: rural-tileset-tilex2_11
+  - first:
+      213: 21300024
+    second: rural-tileset-tilex2_12
+  - first:
+      213: 21300026
+    second: rural-tileset-tilex2_13
+  - first:
+      213: 21300028
+    second: rural-tileset-tilex2_14
+  - first:
+      213: 21300030
+    second: rural-tileset-tilex2_15
+  - first:
+      213: 21300032
+    second: rural-tileset-tilex2_16
+  - first:
+      213: 21300034
+    second: rural-tileset-tilex2_17
+  - first:
+      213: 21300036
+    second: rural-tileset-tilex2_18
+  - first:
+      213: 21300038
+    second: rural-tileset-tilex2_19
+  - first:
+      213: 21300040
+    second: rural-tileset-tilex2_20
+  - first:
+      213: 21300042
+    second: rural-tileset-tilex2_21
+  - first:
+      213: 21300044
+    second: rural-tileset-tilex2_22
+  - first:
+      213: 21300046
+    second: rural-tileset-tilex2_23
+  - first:
+      213: 21300048
+    second: rural-tileset-tilex2_24
+  - first:
+      213: 21300050
+    second: rural-tileset-tilex2_25
+  - first:
+      213: 21300052
+    second: rural-tileset-tilex2_26
+  - first:
+      213: 21300054
+    second: rural-tileset-tilex2_27
+  - first:
+      213: 21300056
+    second: rural-tileset-tilex2_28
+  - first:
+      213: 21300058
+    second: rural-tileset-tilex2_29
+  - first:
+      213: 21300060
+    second: rural-tileset-tilex2_30
+  - first:
+      213: 21300062
+    second: rural-tileset-tilex2_31
+  - first:
+      213: 21300064
+    second: rural-tileset-tilex2_32
+  - first:
+      213: 21300066
+    second: rural-tileset-tilex2_33
+  - first:
+      213: 21300068
+    second: rural-tileset-tilex2_34
+  - first:
+      213: 21300070
+    second: rural-tileset-tilex2_35
+  - first:
+      213: 21300072
+    second: rural-tileset-tilex2_36
+  - first:
+      213: 21300074
+    second: rural-tileset-tilex2_37
+  - first:
+      213: 21300076
+    second: rural-tileset-tilex2_38
+  - first:
+      213: 21300078
+    second: rural-tileset-tilex2_39
+  - first:
+      213: 21300080
+    second: rural-tileset-tilex2_40
+  - first:
+      213: 21300082
+    second: rural-tileset-tilex2_41
+  - first:
+      213: 21300084
+    second: rural-tileset-tilex2_42
+  - first:
+      213: 21300086
+    second: rural-tileset-tilex2_43
+  - first:
+      213: 21300088
+    second: rural-tileset-tilex2_44
+  - first:
+      213: 21300090
+    second: rural-tileset-tilex2_45
+  - first:
+      213: 21300092
+    second: rural-tileset-tilex2_46
+  - first:
+      213: 21300094
+    second: rural-tileset-tilex2_47
+  - first:
+      213: 21300096
+    second: rural-tileset-tilex2_48
+  - first:
+      213: 21300098
+    second: rural-tileset-tilex2_49
+  - first:
+      213: 21300100
+    second: rural-tileset-tilex2_50
+  - first:
+      213: 21300102
+    second: rural-tileset-tilex2_51
+  - first:
+      213: 21300104
+    second: rural-tileset-tilex2_52
+  - first:
+      213: 21300106
+    second: rural-tileset-tilex2_53
+  - first:
+      213: 21300108
+    second: rural-tileset-tilex2_54
+  - first:
+      213: 21300110
+    second: rural-tileset-tilex2_55
+  - first:
+      213: 21300112
+    second: rural-tileset-tilex2_56
+  - first:
+      213: 21300114
+    second: rural-tileset-tilex2_57
+  - first:
+      213: 21300116
+    second: rural-tileset-tilex2_58
+  - first:
+      213: 21300118
+    second: rural-tileset-tilex2_59
+  - first:
+      213: 21300120
+    second: rural-tileset-tilex2_60
+  - first:
+      213: 21300122
+    second: rural-tileset-tilex2_61
+  - first:
+      213: 21300124
+    second: rural-tileset-tilex2_62
+  - first:
+      213: 21300126
+    second: rural-tileset-tilex2_63
+  - first:
+      213: 21300128
+    second: rural-tileset-tilex2_64
+  - first:
+      213: 21300130
+    second: rural-tileset-tilex2_65
+  - first:
+      213: 21300132
+    second: rural-tileset-tilex2_66
+  - first:
+      213: 21300134
+    second: rural-tileset-tilex2_67
+  - first:
+      213: 21300136
+    second: rural-tileset-tilex2_68
+  - first:
+      213: 21300138
+    second: rural-tileset-tilex2_69
+  - first:
+      213: 21300140
+    second: rural-tileset-tilex2_70
+  - first:
+      213: 21300142
+    second: rural-tileset-tilex2_71
+  - first:
+      213: 21300144
+    second: rural-tileset-tilex2_72
+  - first:
+      213: 21300146
+    second: rural-tileset-tilex2_73
+  - first:
+      213: 21300148
+    second: rural-tileset-tilex2_74
+  - first:
+      213: 21300150
+    second: rural-tileset-tilex2_75
+  - first:
+      213: 21300152
+    second: rural-tileset-tilex2_76
+  - first:
+      213: 21300154
+    second: rural-tileset-tilex2_77
+  - first:
+      213: 21300156
+    second: rural-tileset-tilex2_78
+  - first:
+      213: 21300158
+    second: rural-tileset-tilex2_79
+  - first:
+      213: 21300160
+    second: rural-tileset-tilex2_80
+  - first:
+      213: 21300162
+    second: rural-tileset-tilex2_81
+  - first:
+      213: 21300164
+    second: rural-tileset-tilex2_82
+  - first:
+      213: 21300166
+    second: rural-tileset-tilex2_83
+  - first:
+      213: 21300168
+    second: rural-tileset-tilex2_84
+  - first:
+      213: 21300170
+    second: rural-tileset-tilex2_85
+  - first:
+      213: 21300172
+    second: rural-tileset-tilex2_86
+  - first:
+      213: 21300174
+    second: rural-tileset-tilex2_87
+  - first:
+      213: 21300176
+    second: rural-tileset-tilex2_88
+  - first:
+      213: 21300178
+    second: rural-tileset-tilex2_89
+  - first:
+      213: 21300180
+    second: rural-tileset-tilex2_90
+  - first:
+      213: 21300182
+    second: rural-tileset-tilex2_91
+  - first:
+      213: 21300184
+    second: rural-tileset-tilex2_92
+  - first:
+      213: 21300186
+    second: rural-tileset-tilex2_93
+  - first:
+      213: 21300188
+    second: rural-tileset-tilex2_94
+  - first:
+      213: 21300190
+    second: rural-tileset-tilex2_95
+  - first:
+      213: 21300192
+    second: rural-tileset-tilex2_96
+  - first:
+      213: 21300194
+    second: rural-tileset-tilex2_97
+  - first:
+      213: 21300196
+    second: rural-tileset-tilex2_98
+  - first:
+      213: 21300198
+    second: rural-tileset-tilex2_99
+  - first:
+      213: 21300200
+    second: rural-tileset-tilex2_100
+  - first:
+      213: 21300202
+    second: rural-tileset-tilex2_101
+  - first:
+      213: 21300204
+    second: rural-tileset-tilex2_102
+  - first:
+      213: 21300206
+    second: rural-tileset-tilex2_103
+  - first:
+      213: 21300208
+    second: rural-tileset-tilex2_104
+  - first:
+      213: 21300210
+    second: rural-tileset-tilex2_105
+  - first:
+      213: 21300212
+    second: rural-tileset-tilex2_106
+  - first:
+      213: 21300214
+    second: rural-tileset-tilex2_107
+  - first:
+      213: 21300216
+    second: rural-tileset-tilex2_108
+  - first:
+      213: 21300218
+    second: rural-tileset-tilex2_109
+  - first:
+      213: 21300220
+    second: rural-tileset-tilex2_110
+  - first:
+      213: 21300222
+    second: rural-tileset-tilex2_111
+  - first:
+      213: 21300224
+    second: rural-tileset-tilex2_112
+  - first:
+      213: 21300226
+    second: rural-tileset-tilex2_113
+  - first:
+      213: 21300228
+    second: rural-tileset-tilex2_114
+  - first:
+      213: 21300230
+    second: rural-tileset-tilex2_115
+  - first:
+      213: 21300232
+    second: rural-tileset-tilex2_116
+  - first:
+      213: 21300234
+    second: rural-tileset-tilex2_117
+  - first:
+      213: 21300236
+    second: rural-tileset-tilex2_118
+  - first:
+      213: 21300238
+    second: rural-tileset-tilex2_119
+  - first:
+      213: 21300240
+    second: rural-tileset-tilex2_120
+  - first:
+      213: 21300242
+    second: rural-tileset-tilex2_121
+  - first:
+      213: 21300244
+    second: rural-tileset-tilex2_122
+  - first:
+      213: 21300246
+    second: rural-tileset-tilex2_123
+  - first:
+      213: 21300248
+    second: rural-tileset-tilex2_124
+  - first:
+      213: 21300250
+    second: rural-tileset-tilex2_125
+  - first:
+      213: 21300252
+    second: rural-tileset-tilex2_126
+  - first:
+      213: 21300254
+    second: rural-tileset-tilex2_127
+  - first:
+      213: 21300256
+    second: rural-tileset-tilex2_128
+  - first:
+      213: 21300258
+    second: rural-tileset-tilex2_129
+  - first:
+      213: 21300260
+    second: rural-tileset-tilex2_130
+  - first:
+      213: 21300262
+    second: rural-tileset-tilex2_131
+  - first:
+      213: 21300264
+    second: rural-tileset-tilex2_132
+  - first:
+      213: 21300266
+    second: rural-tileset-tilex2_133
+  - first:
+      213: 21300268
+    second: rural-tileset-tilex2_134
+  - first:
+      213: 21300270
+    second: rural-tileset-tilex2_135
+  - first:
+      213: 21300272
+    second: rural-tileset-tilex2_136
+  - first:
+      213: 21300274
+    second: rural-tileset-tilex2_137
+  - first:
+      213: 21300276
+    second: rural-tileset-tilex2_138
+  - first:
+      213: 21300278
+    second: rural-tileset-tilex2_139
+  - first:
+      213: 21300280
+    second: rural-tileset-tilex2_140
+  - first:
+      213: 21300282
+    second: rural-tileset-tilex2_141
+  - first:
+      213: 21300284
+    second: rural-tileset-tilex2_142
+  - first:
+      213: 21300286
+    second: rural-tileset-tilex2_143
+  - first:
+      213: 21300288
+    second: rural-tileset-tilex2_144
+  - first:
+      213: 21300290
+    second: rural-tileset-tilex2_145
+  - first:
+      213: 21300292
+    second: rural-tileset-tilex2_146
+  - first:
+      213: 21300294
+    second: rural-tileset-tilex2_147
+  - first:
+      213: 21300296
+    second: rural-tileset-tilex2_148
+  - first:
+      213: 21300298
+    second: rural-tileset-tilex2_149
+  - first:
+      213: 21300300
+    second: rural-tileset-tilex2_150
+  - first:
+      213: 21300302
+    second: rural-tileset-tilex2_151
+  - first:
+      213: 21300304
+    second: rural-tileset-tilex2_152
+  - first:
+      213: 21300306
+    second: rural-tileset-tilex2_153
+  - first:
+      213: 21300308
+    second: rural-tileset-tilex2_154
+  - first:
+      213: 21300310
+    second: rural-tileset-tilex2_155
+  - first:
+      213: 21300312
+    second: rural-tileset-tilex2_156
+  - first:
+      213: 21300314
+    second: rural-tileset-tilex2_157
+  - first:
+      213: 21300316
+    second: rural-tileset-tilex2_158
+  - first:
+      213: 21300318
+    second: rural-tileset-tilex2_159
+  - first:
+      213: 21300320
+    second: rural-tileset-tilex2_160
+  - first:
+      213: 21300322
+    second: rural-tileset-tilex2_161
+  - first:
+      213: 21300324
+    second: rural-tileset-tilex2_162
+  - first:
+      213: 21300326
+    second: rural-tileset-tilex2_163
+  - first:
+      213: 21300328
+    second: rural-tileset-tilex2_164
+  - first:
+      213: 21300330
+    second: rural-tileset-tilex2_165
+  - first:
+      213: 21300332
+    second: rural-tileset-tilex2_166
+  - first:
+      213: 21300334
+    second: rural-tileset-tilex2_167
+  - first:
+      213: 21300336
+    second: rural-tileset-tilex2_168
+  - first:
+      213: 21300338
+    second: rural-tileset-tilex2_169
+  - first:
+      213: 21300340
+    second: rural-tileset-tilex2_170
+  - first:
+      213: 21300342
+    second: rural-tileset-tilex2_171
+  - first:
+      213: 21300344
+    second: rural-tileset-tilex2_172
+  - first:
+      213: 21300346
+    second: rural-tileset-tilex2_173
+  - first:
+      213: 21300348
+    second: rural-tileset-tilex2_174
+  - first:
+      213: 21300350
+    second: rural-tileset-tilex2_175
+  - first:
+      213: 21300352
+    second: rural-tileset-tilex2_176
+  - first:
+      213: 21300354
+    second: rural-tileset-tilex2_177
+  - first:
+      213: 21300356
+    second: rural-tileset-tilex2_178
+  - first:
+      213: 21300358
+    second: rural-tileset-tilex2_179
+  - first:
+      213: 21300360
+    second: rural-tileset-tilex2_180
+  - first:
+      213: 21300362
+    second: rural-tileset-tilex2_181
+  - first:
+      213: 21300364
+    second: rural-tileset-tilex2_182
+  - first:
+      213: 21300366
+    second: rural-tileset-tilex2_183
+  - first:
+      213: 21300368
+    second: rural-tileset-tilex2_184
+  - first:
+      213: 21300370
+    second: rural-tileset-tilex2_185
+  - first:
+      213: 21300372
+    second: rural-tileset-tilex2_186
+  - first:
+      213: 21300374
+    second: rural-tileset-tilex2_187
+  - first:
+      213: 21300376
+    second: rural-tileset-tilex2_188
+  - first:
+      213: 21300378
+    second: rural-tileset-tilex2_189
+  - first:
+      213: 21300380
+    second: rural-tileset-tilex2_190
+  - first:
+      213: 21300382
+    second: rural-tileset-tilex2_191
+  - first:
+      213: 21300384
+    second: rural-tileset-tilex2_192
+  - first:
+      213: 21300386
+    second: rural-tileset-tilex2_193
+  - first:
+      213: 21300388
+    second: rural-tileset-tilex2_194
+  - first:
+      213: 21300390
+    second: rural-tileset-tilex2_195
+  - first:
+      213: 21300392
+    second: rural-tileset-tilex2_196
+  - first:
+      213: 21300394
+    second: rural-tileset-tilex2_197
+  - first:
+      213: 21300396
+    second: rural-tileset-tilex2_198
+  - first:
+      213: 21300398
+    second: rural-tileset-tilex2_199
+  - first:
+      213: 21300400
+    second: rural-tileset-tilex2_200
+  - first:
+      213: 21300402
+    second: rural-tileset-tilex2_201
+  - first:
+      213: 21300404
+    second: rural-tileset-tilex2_202
+  - first:
+      213: 21300406
+    second: rural-tileset-tilex2_203
+  - first:
+      213: 21300408
+    second: rural-tileset-tilex2_204
+  - first:
+      213: 21300410
+    second: rural-tileset-tilex2_205
+  - first:
+      213: 21300412
+    second: rural-tileset-tilex2_206
+  - first:
+      213: 21300414
+    second: rural-tileset-tilex2_207
+  - first:
+      213: 21300416
+    second: rural-tileset-tilex2_208
+  - first:
+      213: 21300418
+    second: rural-tileset-tilex2_209
+  - first:
+      213: 21300420
+    second: rural-tileset-tilex2_210
+  - first:
+      213: 21300422
+    second: rural-tileset-tilex2_211
+  - first:
+      213: 21300424
+    second: rural-tileset-tilex2_212
+  - first:
+      213: 21300426
+    second: rural-tileset-tilex2_213
+  - first:
+      213: 21300428
+    second: rural-tileset-tilex2_214
+  - first:
+      213: 21300430
+    second: rural-tileset-tilex2_215
+  - first:
+      213: 21300432
+    second: rural-tileset-tilex2_216
+  - first:
+      213: 21300434
+    second: rural-tileset-tilex2_217
+  - first:
+      213: 21300436
+    second: rural-tileset-tilex2_218
+  - first:
+      213: 21300438
+    second: rural-tileset-tilex2_219
+  - first:
+      213: 21300440
+    second: rural-tileset-tilex2_220
+  - first:
+      213: 21300442
+    second: rural-tileset-tilex2_221
+  - first:
+      213: 21300444
+    second: rural-tileset-tilex2_222
+  - first:
+      213: 21300446
+    second: rural-tileset-tilex2_223
+  - first:
+      213: 21300448
+    second: rural-tileset-tilex2_224
+  - first:
+      213: 21300450
+    second: rural-tileset-tilex2_225
+  - first:
+      213: 21300452
+    second: rural-tileset-tilex2_226
+  - first:
+      213: 21300454
+    second: rural-tileset-tilex2_227
+  - first:
+      213: 21300456
+    second: rural-tileset-tilex2_228
+  - first:
+      213: 21300458
+    second: rural-tileset-tilex2_229
+  - first:
+      213: 21300460
+    second: rural-tileset-tilex2_230
+  - first:
+      213: 21300462
+    second: rural-tileset-tilex2_231
+  - first:
+      213: 21300464
+    second: rural-tileset-tilex2_232
+  - first:
+      213: 21300466
+    second: rural-tileset-tilex2_233
+  - first:
+      213: 21300468
+    second: rural-tileset-tilex2_234
+  - first:
+      213: 21300470
+    second: rural-tileset-tilex2_235
+  - first:
+      213: 21300472
+    second: rural-tileset-tilex2_236
+  - first:
+      213: 21300474
+    second: rural-tileset-tilex2_237
+  - first:
+      213: 21300476
+    second: rural-tileset-tilex2_238
+  - first:
+      213: 21300478
+    second: rural-tileset-tilex2_239
+  - first:
+      213: 21300480
+    second: rural-tileset-tilex2_240
+  - first:
+      213: 21300482
+    second: rural-tileset-tilex2_241
+  - first:
+      213: 21300484
+    second: rural-tileset-tilex2_242
+  - first:
+      213: 21300486
+    second: rural-tileset-tilex2_243
+  - first:
+      213: 21300488
+    second: rural-tileset-tilex2_244
+  - first:
+      213: 21300490
+    second: rural-tileset-tilex2_245
+  - first:
+      213: 21300492
+    second: rural-tileset-tilex2_246
+  - first:
+      213: 21300494
+    second: rural-tileset-tilex2_247
+  - first:
+      213: 21300496
+    second: rural-tileset-tilex2_248
+  - first:
+      213: 21300498
+    second: rural-tileset-tilex2_249
+  - first:
+      213: 21300500
+    second: rural-tileset-tilex2_250
+  - first:
+      213: 21300502
+    second: rural-tileset-tilex2_251
+  - first:
+      213: 21300504
+    second: rural-tileset-tilex2_252
+  - first:
+      213: 21300506
+    second: rural-tileset-tilex2_253
+  - first:
+      213: 21300508
+    second: rural-tileset-tilex2_254
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -275,9 +785,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -287,8 +800,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -309,11 +822,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -323,8 +842,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -334,7 +855,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -354,6 +890,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ee745a8d12bbd23489eb0df6e24804a4
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -374,6 +911,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 782354a2cf079614d8439e1dd532f000
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -394,6 +932,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 743c4320ddd7fad4cb1421921961ee3f
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -414,6 +953,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 376768757c211d144b768e642edf48cb
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -434,6 +974,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fd5fa4ecd544c194fadb3f697248808a
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -454,6 +995,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8fa469a99e543434da8bbba35848574f
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -474,6 +1016,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 63d8088a8e1ca4c4489f7bd29ea69406
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -494,6 +1037,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8dd954988d9666a4e8882eb412f5bf6a
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -514,6 +1058,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e728dfda32b118949b6b09c15707dfe1
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -534,6 +1079,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4a61ad6c611fe3040a54cc0ef20a822e
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -554,6 +1100,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 53cf3547537a4fd4cb6c5a0f5ade2ac6
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -574,6 +1121,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 41568f670e67c03449d14f1b25b3927f
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -594,6 +1142,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 80479c4a916850748b06a36587eb3df1
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -614,6 +1163,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eb87476a52d49aa44ad91a4af4a94c3d
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -634,6 +1184,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e2bc078374ddb3d4cad5dbc445757126
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -654,6 +1205,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 509722450a696774885eea7732f060c2
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -674,6 +1226,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 04670c4bf5e2c364f8f6f73b903a0057
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -694,6 +1247,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a3ade9bf6c59b61489d8545e79b5e390
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -714,6 +1268,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 29c4539522298c44b81a359e8626bc6c
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -734,6 +1289,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 93de0104ea3ffa54fa629a72ad31a702
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -754,6 +1310,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d1f57727deb284343bf8fc2afebcc9cb
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -774,6 +1331,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f4671d5c32bff6245bad0da20fe7b023
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -794,6 +1352,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2a64395d958176541b9e47cc8de5a45c
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -814,6 +1373,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 98350f14210856d43ae1023901040760
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -834,6 +1394,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: db29b3543e05e7f4f8b63e6b047eeb74
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -854,6 +1415,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 29f8d05ea2fe7d84088356ac0e359015
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -874,6 +1436,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 87eef0b0be3e4974886e8693697ca912
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -894,6 +1457,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 90080611d8349fd49a77c11b17847bf2
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -914,6 +1478,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 16ea2d27dc37dd34d86d31e1aa19a4d6
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -934,6 +1499,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d4f6bf82af8464c4b983507dff963cdc
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -954,6 +1520,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b0cb7423a06257149baa1272a219b7e5
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -974,6 +1541,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 98c6b36a531b9aa4da739015a15c78d4
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -994,6 +1562,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd923acb96aad5341a6b79aeb952ff2d
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -1014,6 +1583,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7c4d8b10723fc5543a598be079135dbf
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -1034,6 +1604,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b46dda00c80b24d4f8fa4a82c6e082f8
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -1054,6 +1625,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6e3909f2e8f082849bc21a172c6cd10e
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -1074,6 +1646,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9355298270eadd74eba3c3e592facae0
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -1094,6 +1667,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8f338cf9885e1e40bfd6f0d638a4a17
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -1114,6 +1688,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fb1e1cf9e3fe1aa4b9f6196fdfbc50b5
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -1134,6 +1709,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9476970f531b48d47a33a4d47c21e005
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -1154,6 +1730,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 76d3b12dc56b36f4da5d5948c4433c3e
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -1174,6 +1751,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36b12ce0cf697904ead0c7b25b2003f1
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -1194,6 +1772,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 47bb37e2b1921f0498ddfc11e3077215
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
@@ -1214,6 +1793,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ee1cd5a9c9ecfe64fac1c0d5cd12396b
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -1234,6 +1814,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d86929caf9c02fd4a80cbfcfabc6719d
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
@@ -1254,6 +1835,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c7c835fa87dce1f47aa24b3b1b02c4b2
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
@@ -1274,6 +1856,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 04ab8d67372e3684583983c63af10065
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
@@ -1294,6 +1877,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8f8f66363fbeaa74ea628fb74d2a8bd8
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
@@ -1314,6 +1898,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dcf7c385611e0ef4299dbfef2de75d2f
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -1334,6 +1919,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: abf35712f50845640bfa440ab8817770
+      internalID: 21300098
       vertices: []
       indices: 
       edges: []
@@ -1354,6 +1940,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 01d4a22a017a74c499559b07fe0f869f
+      internalID: 21300100
       vertices: []
       indices: 
       edges: []
@@ -1374,6 +1961,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 86838e02e44babf4695ae87c5cd68060
+      internalID: 21300102
       vertices: []
       indices: 
       edges: []
@@ -1394,6 +1982,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f1d439c7c5f7914d991156efcfc0bce
+      internalID: 21300104
       vertices: []
       indices: 
       edges: []
@@ -1414,6 +2003,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a45d19dbfd28edc42861a36f7cb93b74
+      internalID: 21300106
       vertices: []
       indices: 
       edges: []
@@ -1434,6 +2024,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d0e2f292280e78c4bb2a0a609ecf1580
+      internalID: 21300108
       vertices: []
       indices: 
       edges: []
@@ -1454,6 +2045,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0fddb97b1c374d747a402eaedd8525c4
+      internalID: 21300110
       vertices: []
       indices: 
       edges: []
@@ -1474,6 +2066,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f87cb54d8ed3ee4ca7e71a7eeb76f0f
+      internalID: 21300112
       vertices: []
       indices: 
       edges: []
@@ -1494,6 +2087,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f39839e93a30e0b46ac36b9cd3058b3a
+      internalID: 21300114
       vertices: []
       indices: 
       edges: []
@@ -1514,6 +2108,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 796b43ac0c8cc2a43ae34ed98f67d884
+      internalID: 21300116
       vertices: []
       indices: 
       edges: []
@@ -1534,6 +2129,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b9291517ee7e54c449a066e3b06a7224
+      internalID: 21300118
       vertices: []
       indices: 
       edges: []
@@ -1554,6 +2150,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 25b10d35d50647b419ec8f46c7da9883
+      internalID: 21300120
       vertices: []
       indices: 
       edges: []
@@ -1574,6 +2171,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8ee0ee9005b0814885aee65376a9e4d
+      internalID: 21300122
       vertices: []
       indices: 
       edges: []
@@ -1594,6 +2192,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 72937feead53b3743bbb5a5eaa489f59
+      internalID: 21300124
       vertices: []
       indices: 
       edges: []
@@ -1614,6 +2213,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a95abc18992afe441be7c4ada7879671
+      internalID: 21300126
       vertices: []
       indices: 
       edges: []
@@ -1634,6 +2234,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ddb4a45bf84279745870983b6ce7f60e
+      internalID: 21300128
       vertices: []
       indices: 
       edges: []
@@ -1654,6 +2255,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ccf27259a7bc6d419ef99d508a08549
+      internalID: 21300130
       vertices: []
       indices: 
       edges: []
@@ -1674,6 +2276,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 50535339d458c1641af7b896cab3501e
+      internalID: 21300132
       vertices: []
       indices: 
       edges: []
@@ -1694,6 +2297,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ccb0edd720815d848a2b7582dcfdb3f6
+      internalID: 21300134
       vertices: []
       indices: 
       edges: []
@@ -1714,6 +2318,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ecc9bb7ba0b1b464cb838d6d2c092cac
+      internalID: 21300136
       vertices: []
       indices: 
       edges: []
@@ -1734,6 +2339,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e664816dc03e5db41be73e670b18e679
+      internalID: 21300138
       vertices: []
       indices: 
       edges: []
@@ -1754,6 +2360,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d17c39b503c3b7c43bce4aa171453273
+      internalID: 21300140
       vertices: []
       indices: 
       edges: []
@@ -1774,6 +2381,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c26086a6b1f46b64f98bc5242826c77a
+      internalID: 21300142
       vertices: []
       indices: 
       edges: []
@@ -1794,6 +2402,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d2e07275e7c9f2f44af0f1393143e196
+      internalID: 21300144
       vertices: []
       indices: 
       edges: []
@@ -1814,6 +2423,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 914993b56b3ffeb4ea95b7866f266bf6
+      internalID: 21300146
       vertices: []
       indices: 
       edges: []
@@ -1834,6 +2444,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b5136ef7f1ee04146bde9185d08d6864
+      internalID: 21300148
       vertices: []
       indices: 
       edges: []
@@ -1854,6 +2465,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fe0594e323ee7184e92da0dc167e67b8
+      internalID: 21300150
       vertices: []
       indices: 
       edges: []
@@ -1874,6 +2486,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 18e8d510adcc9f8408ce22881f03e22c
+      internalID: 21300152
       vertices: []
       indices: 
       edges: []
@@ -1894,6 +2507,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 64787bc8f9fdf4e42aa07ed17c0c0981
+      internalID: 21300154
       vertices: []
       indices: 
       edges: []
@@ -1914,6 +2528,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5a30c8543f388ec49b7ab7af18409ae9
+      internalID: 21300156
       vertices: []
       indices: 
       edges: []
@@ -1934,6 +2549,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5725dcef818008849bb45fda19bb824f
+      internalID: 21300158
       vertices: []
       indices: 
       edges: []
@@ -1954,6 +2570,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 99df94ef4862dea4aaeb19689866d0b9
+      internalID: 21300160
       vertices: []
       indices: 
       edges: []
@@ -1974,6 +2591,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8acde51c3c947f40aa7bd9e9809c271
+      internalID: 21300162
       vertices: []
       indices: 
       edges: []
@@ -1994,6 +2612,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eb0485f2ec29a894f8e79a2577314a89
+      internalID: 21300164
       vertices: []
       indices: 
       edges: []
@@ -2014,6 +2633,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8a4d78143d259f4383bf3e2f01cb78e
+      internalID: 21300166
       vertices: []
       indices: 
       edges: []
@@ -2034,6 +2654,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 778cefb04ea476d40a0313214ff7c4cf
+      internalID: 21300168
       vertices: []
       indices: 
       edges: []
@@ -2054,6 +2675,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 83793d4eba8e4b34d946df11c733226e
+      internalID: 21300170
       vertices: []
       indices: 
       edges: []
@@ -2074,6 +2696,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f0553ea8e22672e4c9018ec375092d22
+      internalID: 21300172
       vertices: []
       indices: 
       edges: []
@@ -2094,6 +2717,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ec4ad424298776f4fb3f1ce428b2c362
+      internalID: 21300174
       vertices: []
       indices: 
       edges: []
@@ -2114,6 +2738,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1bbcdc3710ebea441bb0d25f03adcf1e
+      internalID: 21300176
       vertices: []
       indices: 
       edges: []
@@ -2134,6 +2759,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a8a6634e936e29e409c42958d993992d
+      internalID: 21300178
       vertices: []
       indices: 
       edges: []
@@ -2154,6 +2780,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1c8f40536549033428a3c6ebe0b15c14
+      internalID: 21300180
       vertices: []
       indices: 
       edges: []
@@ -2174,6 +2801,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dc6dc19208135924f93c47660002bf49
+      internalID: 21300182
       vertices: []
       indices: 
       edges: []
@@ -2194,6 +2822,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 500bc0d79fe2eab43a054f8a99629801
+      internalID: 21300184
       vertices: []
       indices: 
       edges: []
@@ -2214,6 +2843,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 833fca5422bc87945a64db0eea1e58c7
+      internalID: 21300186
       vertices: []
       indices: 
       edges: []
@@ -2234,6 +2864,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49501acb686b8a64c9021b4aba1e99c5
+      internalID: 21300188
       vertices: []
       indices: 
       edges: []
@@ -2254,6 +2885,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 57e5883651e79b84e8e7b69c242df0f5
+      internalID: 21300190
       vertices: []
       indices: 
       edges: []
@@ -2274,6 +2906,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d5667f947703a58409fda792b355ab33
+      internalID: 21300192
       vertices: []
       indices: 
       edges: []
@@ -2294,6 +2927,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e1bc12ef6862d2c42b03a96d7ab77e0c
+      internalID: 21300194
       vertices: []
       indices: 
       edges: []
@@ -2314,6 +2948,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 24240e0fde2af08469a41f6aa13d8468
+      internalID: 21300196
       vertices: []
       indices: 
       edges: []
@@ -2334,6 +2969,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb39e9dcd67c29f4987bc8d743a553d2
+      internalID: 21300198
       vertices: []
       indices: 
       edges: []
@@ -2354,6 +2990,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ea89efd007a52e24d9c5cfebb9231f63
+      internalID: 21300200
       vertices: []
       indices: 
       edges: []
@@ -2374,6 +3011,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f9a31ac7343d2f6448438e792a1daf91
+      internalID: 21300202
       vertices: []
       indices: 
       edges: []
@@ -2394,6 +3032,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 589123473a303ef4480e565abf2e73eb
+      internalID: 21300204
       vertices: []
       indices: 
       edges: []
@@ -2414,6 +3053,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 27f00c7d9f2b2734ab9a0cb97685c8e5
+      internalID: 21300206
       vertices: []
       indices: 
       edges: []
@@ -2434,6 +3074,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 067c55182f2c9a74ba37d9aaad0cfed7
+      internalID: 21300208
       vertices: []
       indices: 
       edges: []
@@ -2454,6 +3095,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 573e6ddd1868fed4a8e491adf650c89e
+      internalID: 21300210
       vertices: []
       indices: 
       edges: []
@@ -2474,6 +3116,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 71cb06aca566d4f43a56d3be51d3e3c3
+      internalID: 21300212
       vertices: []
       indices: 
       edges: []
@@ -2494,6 +3137,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8101f415df790ec43a6533dc07688760
+      internalID: 21300214
       vertices: []
       indices: 
       edges: []
@@ -2514,6 +3158,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 12507ecd141749e46995bd52e977005a
+      internalID: 21300216
       vertices: []
       indices: 
       edges: []
@@ -2534,6 +3179,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 142c5c5b4bafdd044acfd9d48674ef74
+      internalID: 21300218
       vertices: []
       indices: 
       edges: []
@@ -2554,6 +3200,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 71e65aa77a83f724caa16525e4cf8065
+      internalID: 21300220
       vertices: []
       indices: 
       edges: []
@@ -2574,6 +3221,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 478f32123c03edc47ac156d0e4a14c57
+      internalID: 21300222
       vertices: []
       indices: 
       edges: []
@@ -2594,6 +3242,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 74d228b76b1303e459378fcab6d95dc9
+      internalID: 21300224
       vertices: []
       indices: 
       edges: []
@@ -2614,6 +3263,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7a03f9b28ef6de0419939bdbe3453c17
+      internalID: 21300226
       vertices: []
       indices: 
       edges: []
@@ -2634,6 +3284,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 62f4a1596247c2c469447472c29f7a21
+      internalID: 21300228
       vertices: []
       indices: 
       edges: []
@@ -2654,6 +3305,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cc890230eeb70bd499d25643f349934a
+      internalID: 21300230
       vertices: []
       indices: 
       edges: []
@@ -2674,6 +3326,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7d234e3bf0b3be2428e5f192531a8e44
+      internalID: 21300232
       vertices: []
       indices: 
       edges: []
@@ -2694,6 +3347,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff5252e6472efd445abc6b5e568f67a3
+      internalID: 21300234
       vertices: []
       indices: 
       edges: []
@@ -2714,6 +3368,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cee6f3ee2cffa2f4fb54780579be25ff
+      internalID: 21300236
       vertices: []
       indices: 
       edges: []
@@ -2734,6 +3389,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6502812a4030de24b8bdf28b321e2d82
+      internalID: 21300238
       vertices: []
       indices: 
       edges: []
@@ -2754,6 +3410,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 37e5046bba589e84abddb8670ea5c721
+      internalID: 21300240
       vertices: []
       indices: 
       edges: []
@@ -2774,6 +3431,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8fe997b2bd0c2746a6e2c96285ceb12
+      internalID: 21300242
       vertices: []
       indices: 
       edges: []
@@ -2794,6 +3452,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1b9d3e82419fb2d418a40f642374e927
+      internalID: 21300244
       vertices: []
       indices: 
       edges: []
@@ -2814,6 +3473,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4550e7cb5cc3a6f43ba4a26197d1fea0
+      internalID: 21300246
       vertices: []
       indices: 
       edges: []
@@ -2834,6 +3494,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 56a7dd5be1be36546bd2988b5a826175
+      internalID: 21300248
       vertices: []
       indices: 
       edges: []
@@ -2854,6 +3515,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 478cfeff2eb876947bec896950d3a598
+      internalID: 21300250
       vertices: []
       indices: 
       edges: []
@@ -2874,6 +3536,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 356e44ad1368c374bbd03bb4e13b6376
+      internalID: 21300252
       vertices: []
       indices: 
       edges: []
@@ -2894,6 +3557,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 46305affd3db1794da74dd5d82b2e7c8
+      internalID: 21300254
       vertices: []
       indices: 
       edges: []
@@ -2914,6 +3578,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 37ded7e5cfc9e824da2c9049224d5886
+      internalID: 21300256
       vertices: []
       indices: 
       edges: []
@@ -2934,6 +3599,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c1ffbb4111902864d857004b4f6b4601
+      internalID: 21300258
       vertices: []
       indices: 
       edges: []
@@ -2954,6 +3620,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0314046b370042748a60580f8b2bbe6f
+      internalID: 21300260
       vertices: []
       indices: 
       edges: []
@@ -2974,6 +3641,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0e6f8e4b52d85e54cb7e2e513ecba1c3
+      internalID: 21300262
       vertices: []
       indices: 
       edges: []
@@ -2994,6 +3662,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 97a7d47cbb03d0547a8601977086c234
+      internalID: 21300264
       vertices: []
       indices: 
       edges: []
@@ -3014,6 +3683,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1a05b77c06411b9438011d80dec8f6c8
+      internalID: 21300266
       vertices: []
       indices: 
       edges: []
@@ -3034,6 +3704,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1789ce10286dcb24bb9df4ba658f06ed
+      internalID: 21300268
       vertices: []
       indices: 
       edges: []
@@ -3054,6 +3725,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: abae416f4888e8549b442519a3436932
+      internalID: 21300270
       vertices: []
       indices: 
       edges: []
@@ -3074,6 +3746,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 160a04c884bd37f4c9d0303c85aee45b
+      internalID: 21300272
       vertices: []
       indices: 
       edges: []
@@ -3094,6 +3767,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e502d14e9d417474ba378dbac5147f7d
+      internalID: 21300274
       vertices: []
       indices: 
       edges: []
@@ -3114,6 +3788,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b9f1d12dce90e344a83d8be5117f3e07
+      internalID: 21300276
       vertices: []
       indices: 
       edges: []
@@ -3134,6 +3809,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 76d216fb1ad79e94e98d3332e31fd0cf
+      internalID: 21300278
       vertices: []
       indices: 
       edges: []
@@ -3154,6 +3830,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7e5bcd8a17a69f548b3090764193e8fc
+      internalID: 21300280
       vertices: []
       indices: 
       edges: []
@@ -3174,6 +3851,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff850df0fbab6844a818bbf5fe999915
+      internalID: 21300282
       vertices: []
       indices: 
       edges: []
@@ -3194,6 +3872,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 507bbed15bb4df941925ef8c39c92874
+      internalID: 21300284
       vertices: []
       indices: 
       edges: []
@@ -3214,6 +3893,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8a1df2203cbd4af4e908de13d6a8c6d6
+      internalID: 21300286
       vertices: []
       indices: 
       edges: []
@@ -3234,6 +3914,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0486682b617cdd04aa2561e0375ecd65
+      internalID: 21300288
       vertices: []
       indices: 
       edges: []
@@ -3254,6 +3935,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4856aacd6c20a8d48b6f54f110424ae0
+      internalID: 21300290
       vertices: []
       indices: 
       edges: []
@@ -3274,6 +3956,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7907b1274a2ee7d4f92d6fa507eeba79
+      internalID: 21300292
       vertices: []
       indices: 
       edges: []
@@ -3294,6 +3977,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ad8caf79d1c6f184bb60032c635ad22e
+      internalID: 21300294
       vertices: []
       indices: 
       edges: []
@@ -3314,6 +3998,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bab25b5644bc4ac4aa53eb906c10550c
+      internalID: 21300296
       vertices: []
       indices: 
       edges: []
@@ -3334,6 +4019,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5612d29cd4317534084610b5864a2a01
+      internalID: 21300298
       vertices: []
       indices: 
       edges: []
@@ -3354,6 +4040,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9d62cffd60c46984cb0e2f4e93b35326
+      internalID: 21300300
       vertices: []
       indices: 
       edges: []
@@ -3374,6 +4061,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 329a85083fb3cf141a19a870ac5e3b24
+      internalID: 21300302
       vertices: []
       indices: 
       edges: []
@@ -3394,6 +4082,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ddb2c52c64c2a2a4095c79a7e6e71904
+      internalID: 21300304
       vertices: []
       indices: 
       edges: []
@@ -3414,6 +4103,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b0b107ded6175584c8e4c775a19f1b7e
+      internalID: 21300306
       vertices: []
       indices: 
       edges: []
@@ -3434,6 +4124,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5c6b18c1377529c49a0b7624baaa3aaf
+      internalID: 21300308
       vertices: []
       indices: 
       edges: []
@@ -3454,6 +4145,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 00695920e5b6f9e4b8fb91d7f6b8b87a
+      internalID: 21300310
       vertices: []
       indices: 
       edges: []
@@ -3474,6 +4166,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3dc2e283dba1b714a91c2c956a32dd8d
+      internalID: 21300312
       vertices: []
       indices: 
       edges: []
@@ -3494,6 +4187,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7ad315d5a19e1ee4584b407997d034dc
+      internalID: 21300314
       vertices: []
       indices: 
       edges: []
@@ -3514,6 +4208,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 38098b6bd2587e248a9c833b31efc54e
+      internalID: 21300316
       vertices: []
       indices: 
       edges: []
@@ -3534,6 +4229,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 05c74df74b618cb47888cdae8a6bcdbd
+      internalID: 21300318
       vertices: []
       indices: 
       edges: []
@@ -3554,6 +4250,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c18ee607296d78b4aa886cffddf5cc3a
+      internalID: 21300320
       vertices: []
       indices: 
       edges: []
@@ -3574,6 +4271,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c4b915d35b0b6624a887f76506550d73
+      internalID: 21300322
       vertices: []
       indices: 
       edges: []
@@ -3594,6 +4292,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6deae7bdb119c2148983cd308e98bc7c
+      internalID: 21300324
       vertices: []
       indices: 
       edges: []
@@ -3614,6 +4313,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d709ab8bf1da3e748916e7b1b067e78f
+      internalID: 21300326
       vertices: []
       indices: 
       edges: []
@@ -3634,6 +4334,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3e68bd32b75daff499d6cc8f79f562cd
+      internalID: 21300328
       vertices: []
       indices: 
       edges: []
@@ -3654,6 +4355,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8d78d4d65028ba848ac9c9167fb34dea
+      internalID: 21300330
       vertices: []
       indices: 
       edges: []
@@ -3674,6 +4376,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cbeb8ae7abc1be44daea7f2e530f664e
+      internalID: 21300332
       vertices: []
       indices: 
       edges: []
@@ -3694,6 +4397,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1ffaf7a69de4ca6489e56b2c03fa4f0d
+      internalID: 21300334
       vertices: []
       indices: 
       edges: []
@@ -3714,6 +4418,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6e3ab2463f890114da64338d3d9c714b
+      internalID: 21300336
       vertices: []
       indices: 
       edges: []
@@ -3734,6 +4439,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e1eeec91449cda74ba03e34a331f0b5f
+      internalID: 21300338
       vertices: []
       indices: 
       edges: []
@@ -3754,6 +4460,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a73b1cc83c9e8fc4f844d33a932f823f
+      internalID: 21300340
       vertices: []
       indices: 
       edges: []
@@ -3774,6 +4481,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e35ef420148ba08448cb479469172394
+      internalID: 21300342
       vertices: []
       indices: 
       edges: []
@@ -3794,6 +4502,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: beda2a5d916c9674394f8d4f9a1aeed1
+      internalID: 21300344
       vertices: []
       indices: 
       edges: []
@@ -3814,6 +4523,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36bb86b56cce95a40adfd3583ecbc54c
+      internalID: 21300346
       vertices: []
       indices: 
       edges: []
@@ -3834,6 +4544,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 25abe0a92a976214d8bdf11bbe35ccf0
+      internalID: 21300348
       vertices: []
       indices: 
       edges: []
@@ -3854,6 +4565,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f62749cb3bc430042a80fbd1758c6a4c
+      internalID: 21300350
       vertices: []
       indices: 
       edges: []
@@ -3874,6 +4586,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f545f58ac3cc035429a5198f3ef18098
+      internalID: 21300352
       vertices: []
       indices: 
       edges: []
@@ -3894,6 +4607,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1bacf8f9756101b42be347b4cf5983c3
+      internalID: 21300354
       vertices: []
       indices: 
       edges: []
@@ -3914,6 +4628,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0111e63de5a814143b21d02d5b3aa780
+      internalID: 21300356
       vertices: []
       indices: 
       edges: []
@@ -3934,6 +4649,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 87ed2b3b91dccbf49acbd6c8090b06fe
+      internalID: 21300358
       vertices: []
       indices: 
       edges: []
@@ -3954,6 +4670,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1d52e2b8cd51f9c4b9b41139d715d804
+      internalID: 21300360
       vertices: []
       indices: 
       edges: []
@@ -3974,6 +4691,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 426f4dd2df7a8e540beac170b716cf99
+      internalID: 21300362
       vertices: []
       indices: 
       edges: []
@@ -3994,6 +4712,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8deaa869932b28b49a7e6d7d31e7ccdb
+      internalID: 21300364
       vertices: []
       indices: 
       edges: []
@@ -4014,6 +4733,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3da4e34e5db1302468c9ef7c32984057
+      internalID: 21300366
       vertices: []
       indices: 
       edges: []
@@ -4034,6 +4754,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: efe04b6aff81ccf46abea0339ed13f8d
+      internalID: 21300368
       vertices: []
       indices: 
       edges: []
@@ -4054,6 +4775,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6203d30c6c602eb46b561706aaedb138
+      internalID: 21300370
       vertices: []
       indices: 
       edges: []
@@ -4074,6 +4796,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ef1f651b4b8ff704f826aa68dbdd0ce5
+      internalID: 21300372
       vertices: []
       indices: 
       edges: []
@@ -4094,6 +4817,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 73105333f5513954c8ad34dfe52b2d80
+      internalID: 21300374
       vertices: []
       indices: 
       edges: []
@@ -4114,6 +4838,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f10a27cffbe7ac54491f831d2ee941c8
+      internalID: 21300376
       vertices: []
       indices: 
       edges: []
@@ -4134,6 +4859,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 437265066b1f9964fac59635a45ecde9
+      internalID: 21300378
       vertices: []
       indices: 
       edges: []
@@ -4154,6 +4880,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e4e9ba05713bfb94b9d9d21cbdfec612
+      internalID: 21300380
       vertices: []
       indices: 
       edges: []
@@ -4174,6 +4901,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8d55bb90c7b25ca44b58e20729aab149
+      internalID: 21300382
       vertices: []
       indices: 
       edges: []
@@ -4194,6 +4922,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3f81330fea774864c8fd271552292abb
+      internalID: 21300384
       vertices: []
       indices: 
       edges: []
@@ -4214,6 +4943,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d3e54a832109dc64c82e0b36be6d5b3b
+      internalID: 21300386
       vertices: []
       indices: 
       edges: []
@@ -4234,6 +4964,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ed0f3c6e29508d74bbc0576a393d0b8a
+      internalID: 21300388
       vertices: []
       indices: 
       edges: []
@@ -4254,6 +4985,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0344ad0750c9831429c85cf66834b99d
+      internalID: 21300390
       vertices: []
       indices: 
       edges: []
@@ -4274,6 +5006,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 984bf51eee4d80a4aa063323cf0a1a94
+      internalID: 21300392
       vertices: []
       indices: 
       edges: []
@@ -4294,6 +5027,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f14f2a51d57e38479155af1674f2ce0
+      internalID: 21300394
       vertices: []
       indices: 
       edges: []
@@ -4314,6 +5048,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a12b1b9ddf6a5c14dbf4673f2d88d461
+      internalID: 21300396
       vertices: []
       indices: 
       edges: []
@@ -4334,6 +5069,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e1053291d964cc84589b5dbb1b6e635f
+      internalID: 21300398
       vertices: []
       indices: 
       edges: []
@@ -4354,6 +5090,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: feb01bedd07411b429a4f7807293d990
+      internalID: 21300400
       vertices: []
       indices: 
       edges: []
@@ -4374,6 +5111,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b4a70be6515598e479f45ae4bfe198ea
+      internalID: 21300402
       vertices: []
       indices: 
       edges: []
@@ -4394,6 +5132,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 677a7ce8cc56b274a805ff2767aadc1e
+      internalID: 21300404
       vertices: []
       indices: 
       edges: []
@@ -4414,6 +5153,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d435f2aa17b045f4f986dd86ebad2431
+      internalID: 21300406
       vertices: []
       indices: 
       edges: []
@@ -4434,6 +5174,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9bc7b73551d2a1c47b4276bdad73891b
+      internalID: 21300408
       vertices: []
       indices: 
       edges: []
@@ -4454,6 +5195,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9c921887043a4004396d0cd489460c9b
+      internalID: 21300410
       vertices: []
       indices: 
       edges: []
@@ -4474,6 +5216,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9238939b6cf8e92429fa64190ad50081
+      internalID: 21300412
       vertices: []
       indices: 
       edges: []
@@ -4494,6 +5237,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ac94bc5b419d094aa1a65f25e4e8385
+      internalID: 21300414
       vertices: []
       indices: 
       edges: []
@@ -4514,6 +5258,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 24e374297d203be43aff4d8de3606789
+      internalID: 21300416
       vertices: []
       indices: 
       edges: []
@@ -4534,6 +5279,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3846355b39606fc4ab4abc36b117a7db
+      internalID: 21300418
       vertices: []
       indices: 
       edges: []
@@ -4554,6 +5300,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1986ab382acd44e418f3b1e07a9dac38
+      internalID: 21300420
       vertices: []
       indices: 
       edges: []
@@ -4574,6 +5321,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6c24b807445ce084ebaee15a5349d389
+      internalID: 21300422
       vertices: []
       indices: 
       edges: []
@@ -4594,6 +5342,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aa1525765cd98d84cb33a296cb65b31f
+      internalID: 21300424
       vertices: []
       indices: 
       edges: []
@@ -4614,6 +5363,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 37be207f4d360914c8248c2580e325d2
+      internalID: 21300426
       vertices: []
       indices: 
       edges: []
@@ -4634,6 +5384,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1f2f0a51b9e3a3b4986be21950801993
+      internalID: 21300428
       vertices: []
       indices: 
       edges: []
@@ -4654,6 +5405,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f94dcfe878ba846469f4a3b5574fe2ef
+      internalID: 21300430
       vertices: []
       indices: 
       edges: []
@@ -4674,6 +5426,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a500d07a38d302e499bba2d928f62a30
+      internalID: 21300432
       vertices: []
       indices: 
       edges: []
@@ -4694,6 +5447,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 415967ac7ccc03448860d2126ea8c912
+      internalID: 21300434
       vertices: []
       indices: 
       edges: []
@@ -4714,6 +5468,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 50ec835782ee6e54d8b24417770e929c
+      internalID: 21300436
       vertices: []
       indices: 
       edges: []
@@ -4734,6 +5489,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 92ce2b9e588a67a45a02e6a6f92f7a2d
+      internalID: 21300438
       vertices: []
       indices: 
       edges: []
@@ -4754,6 +5510,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f6e6019a95cb7f7409314ef8dfd3b981
+      internalID: 21300440
       vertices: []
       indices: 
       edges: []
@@ -4774,6 +5531,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0924400bb4a9edd49a6b6e258c9baea5
+      internalID: 21300442
       vertices: []
       indices: 
       edges: []
@@ -4794,6 +5552,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6ee052681c79a7745b34f5fb285dbeaa
+      internalID: 21300444
       vertices: []
       indices: 
       edges: []
@@ -4814,6 +5573,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dbf8e0a7e9149d74cae24061217f4dae
+      internalID: 21300446
       vertices: []
       indices: 
       edges: []
@@ -4834,6 +5594,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 25fd46d39a27245469eb22edab3199b5
+      internalID: 21300448
       vertices: []
       indices: 
       edges: []
@@ -4854,6 +5615,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 770abc8538a9b3d4a8cf0b7ba7c21645
+      internalID: 21300450
       vertices: []
       indices: 
       edges: []
@@ -4874,6 +5636,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a3d873f340ce1f640aa19407d84be49c
+      internalID: 21300452
       vertices: []
       indices: 
       edges: []
@@ -4894,6 +5657,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c81d7be9349886546afcd9bac6e575c5
+      internalID: 21300454
       vertices: []
       indices: 
       edges: []
@@ -4914,6 +5678,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cae0e0571b807d545b8ffe51a6dd1c3c
+      internalID: 21300456
       vertices: []
       indices: 
       edges: []
@@ -4934,6 +5699,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 907a900b51ac14c43a0ca10ef3a7ac8e
+      internalID: 21300458
       vertices: []
       indices: 
       edges: []
@@ -4954,6 +5720,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 24f7dfd332e88554c9ebb228284261f8
+      internalID: 21300460
       vertices: []
       indices: 
       edges: []
@@ -4974,6 +5741,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 692ee96e06dd44b48bb380081e042a4e
+      internalID: 21300462
       vertices: []
       indices: 
       edges: []
@@ -4994,6 +5762,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4be08ba45ba649f48914ebd171e88af7
+      internalID: 21300464
       vertices: []
       indices: 
       edges: []
@@ -5014,6 +5783,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 79541956b9d0be24b97b1b1e025bf9f5
+      internalID: 21300466
       vertices: []
       indices: 
       edges: []
@@ -5034,6 +5804,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9cb14d10c94b5ca4a9ca95915fdefe45
+      internalID: 21300468
       vertices: []
       indices: 
       edges: []
@@ -5054,6 +5825,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 356bc50a8f03a694b98df3f416de0254
+      internalID: 21300470
       vertices: []
       indices: 
       edges: []
@@ -5074,6 +5846,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f409cb98384b1cf42afe422d9f7915e9
+      internalID: 21300472
       vertices: []
       indices: 
       edges: []
@@ -5094,6 +5867,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bcfdf33f18d9d964192d3fbdf93e5e3c
+      internalID: 21300474
       vertices: []
       indices: 
       edges: []
@@ -5114,6 +5888,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9e44ae345bdf8d9449bbcb3fdc87e947
+      internalID: 21300476
       vertices: []
       indices: 
       edges: []
@@ -5134,6 +5909,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 67c823eb0f48940418da50906512aadf
+      internalID: 21300478
       vertices: []
       indices: 
       edges: []
@@ -5154,6 +5930,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e1d4ac3cec089d541b95c43e90f77dec
+      internalID: 21300480
       vertices: []
       indices: 
       edges: []
@@ -5174,6 +5951,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d2691fccb97807c43bfd296f97faa944
+      internalID: 21300482
       vertices: []
       indices: 
       edges: []
@@ -5194,6 +5972,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a6d6934a2de020449885c88a6afbadc2
+      internalID: 21300484
       vertices: []
       indices: 
       edges: []
@@ -5214,6 +5993,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 66ea7712db1b7674ebbbcb8707e91d9b
+      internalID: 21300486
       vertices: []
       indices: 
       edges: []
@@ -5234,6 +6014,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82a7738e40f43f44798d9cd5ec90689f
+      internalID: 21300488
       vertices: []
       indices: 
       edges: []
@@ -5254,6 +6035,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8cd764f98aa775b41bd066133c6421b6
+      internalID: 21300490
       vertices: []
       indices: 
       edges: []
@@ -5274,6 +6056,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d6a65d18c9f29a749b21cceebf252379
+      internalID: 21300492
       vertices: []
       indices: 
       edges: []
@@ -5294,6 +6077,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 29f8a21e0bfaab643959f585969f40a6
+      internalID: 21300494
       vertices: []
       indices: 
       edges: []
@@ -5314,6 +6098,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: efab59566fdd81e47b8589a5c7504c4f
+      internalID: 21300496
       vertices: []
       indices: 
       edges: []
@@ -5334,6 +6119,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8ab57f7a92351b042b6dd4e50631180f
+      internalID: 21300498
       vertices: []
       indices: 
       edges: []
@@ -5354,6 +6140,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 59c0207b4d2d3df4792fe30ad9e34e9a
+      internalID: 21300500
       vertices: []
       indices: 
       edges: []
@@ -5374,6 +6161,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e1fc35b241ab6ca4c88daaf1951f6ce4
+      internalID: 21300502
       vertices: []
       indices: 
       edges: []
@@ -5394,6 +6182,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d0a7cc80fc932ca469f67bd985eaf686
+      internalID: 21300504
       vertices: []
       indices: 
       edges: []
@@ -5414,6 +6203,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2001ceacdc1e93e4b84d33d1b5aa7b72
+      internalID: 21300506
       vertices: []
       indices: 
       edges: []
@@ -5434,6 +6224,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 93162bfff92d8614dac0f8387e864349
+      internalID: 21300508
       vertices: []
       indices: 
       edges: []
@@ -5442,13 +6233,270 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+    secondaryTextures: []
+    nameFileIdTable:
+      rural-tileset-tilex2_0: 21300000
+      rural-tileset-tilex2_1: 21300002
+      rural-tileset-tilex2_10: 21300020
+      rural-tileset-tilex2_100: 21300200
+      rural-tileset-tilex2_101: 21300202
+      rural-tileset-tilex2_102: 21300204
+      rural-tileset-tilex2_103: 21300206
+      rural-tileset-tilex2_104: 21300208
+      rural-tileset-tilex2_105: 21300210
+      rural-tileset-tilex2_106: 21300212
+      rural-tileset-tilex2_107: 21300214
+      rural-tileset-tilex2_108: 21300216
+      rural-tileset-tilex2_109: 21300218
+      rural-tileset-tilex2_11: 21300022
+      rural-tileset-tilex2_110: 21300220
+      rural-tileset-tilex2_111: 21300222
+      rural-tileset-tilex2_112: 21300224
+      rural-tileset-tilex2_113: 21300226
+      rural-tileset-tilex2_114: 21300228
+      rural-tileset-tilex2_115: 21300230
+      rural-tileset-tilex2_116: 21300232
+      rural-tileset-tilex2_117: 21300234
+      rural-tileset-tilex2_118: 21300236
+      rural-tileset-tilex2_119: 21300238
+      rural-tileset-tilex2_12: 21300024
+      rural-tileset-tilex2_120: 21300240
+      rural-tileset-tilex2_121: 21300242
+      rural-tileset-tilex2_122: 21300244
+      rural-tileset-tilex2_123: 21300246
+      rural-tileset-tilex2_124: 21300248
+      rural-tileset-tilex2_125: 21300250
+      rural-tileset-tilex2_126: 21300252
+      rural-tileset-tilex2_127: 21300254
+      rural-tileset-tilex2_128: 21300256
+      rural-tileset-tilex2_129: 21300258
+      rural-tileset-tilex2_13: 21300026
+      rural-tileset-tilex2_130: 21300260
+      rural-tileset-tilex2_131: 21300262
+      rural-tileset-tilex2_132: 21300264
+      rural-tileset-tilex2_133: 21300266
+      rural-tileset-tilex2_134: 21300268
+      rural-tileset-tilex2_135: 21300270
+      rural-tileset-tilex2_136: 21300272
+      rural-tileset-tilex2_137: 21300274
+      rural-tileset-tilex2_138: 21300276
+      rural-tileset-tilex2_139: 21300278
+      rural-tileset-tilex2_14: 21300028
+      rural-tileset-tilex2_140: 21300280
+      rural-tileset-tilex2_141: 21300282
+      rural-tileset-tilex2_142: 21300284
+      rural-tileset-tilex2_143: 21300286
+      rural-tileset-tilex2_144: 21300288
+      rural-tileset-tilex2_145: 21300290
+      rural-tileset-tilex2_146: 21300292
+      rural-tileset-tilex2_147: 21300294
+      rural-tileset-tilex2_148: 21300296
+      rural-tileset-tilex2_149: 21300298
+      rural-tileset-tilex2_15: 21300030
+      rural-tileset-tilex2_150: 21300300
+      rural-tileset-tilex2_151: 21300302
+      rural-tileset-tilex2_152: 21300304
+      rural-tileset-tilex2_153: 21300306
+      rural-tileset-tilex2_154: 21300308
+      rural-tileset-tilex2_155: 21300310
+      rural-tileset-tilex2_156: 21300312
+      rural-tileset-tilex2_157: 21300314
+      rural-tileset-tilex2_158: 21300316
+      rural-tileset-tilex2_159: 21300318
+      rural-tileset-tilex2_16: 21300032
+      rural-tileset-tilex2_160: 21300320
+      rural-tileset-tilex2_161: 21300322
+      rural-tileset-tilex2_162: 21300324
+      rural-tileset-tilex2_163: 21300326
+      rural-tileset-tilex2_164: 21300328
+      rural-tileset-tilex2_165: 21300330
+      rural-tileset-tilex2_166: 21300332
+      rural-tileset-tilex2_167: 21300334
+      rural-tileset-tilex2_168: 21300336
+      rural-tileset-tilex2_169: 21300338
+      rural-tileset-tilex2_17: 21300034
+      rural-tileset-tilex2_170: 21300340
+      rural-tileset-tilex2_171: 21300342
+      rural-tileset-tilex2_172: 21300344
+      rural-tileset-tilex2_173: 21300346
+      rural-tileset-tilex2_174: 21300348
+      rural-tileset-tilex2_175: 21300350
+      rural-tileset-tilex2_176: 21300352
+      rural-tileset-tilex2_177: 21300354
+      rural-tileset-tilex2_178: 21300356
+      rural-tileset-tilex2_179: 21300358
+      rural-tileset-tilex2_18: 21300036
+      rural-tileset-tilex2_180: 21300360
+      rural-tileset-tilex2_181: 21300362
+      rural-tileset-tilex2_182: 21300364
+      rural-tileset-tilex2_183: 21300366
+      rural-tileset-tilex2_184: 21300368
+      rural-tileset-tilex2_185: 21300370
+      rural-tileset-tilex2_186: 21300372
+      rural-tileset-tilex2_187: 21300374
+      rural-tileset-tilex2_188: 21300376
+      rural-tileset-tilex2_189: 21300378
+      rural-tileset-tilex2_19: 21300038
+      rural-tileset-tilex2_190: 21300380
+      rural-tileset-tilex2_191: 21300382
+      rural-tileset-tilex2_192: 21300384
+      rural-tileset-tilex2_193: 21300386
+      rural-tileset-tilex2_194: 21300388
+      rural-tileset-tilex2_195: 21300390
+      rural-tileset-tilex2_196: 21300392
+      rural-tileset-tilex2_197: 21300394
+      rural-tileset-tilex2_198: 21300396
+      rural-tileset-tilex2_199: 21300398
+      rural-tileset-tilex2_2: 21300004
+      rural-tileset-tilex2_20: 21300040
+      rural-tileset-tilex2_200: 21300400
+      rural-tileset-tilex2_201: 21300402
+      rural-tileset-tilex2_202: 21300404
+      rural-tileset-tilex2_203: 21300406
+      rural-tileset-tilex2_204: 21300408
+      rural-tileset-tilex2_205: 21300410
+      rural-tileset-tilex2_206: 21300412
+      rural-tileset-tilex2_207: 21300414
+      rural-tileset-tilex2_208: 21300416
+      rural-tileset-tilex2_209: 21300418
+      rural-tileset-tilex2_21: 21300042
+      rural-tileset-tilex2_210: 21300420
+      rural-tileset-tilex2_211: 21300422
+      rural-tileset-tilex2_212: 21300424
+      rural-tileset-tilex2_213: 21300426
+      rural-tileset-tilex2_214: 21300428
+      rural-tileset-tilex2_215: 21300430
+      rural-tileset-tilex2_216: 21300432
+      rural-tileset-tilex2_217: 21300434
+      rural-tileset-tilex2_218: 21300436
+      rural-tileset-tilex2_219: 21300438
+      rural-tileset-tilex2_22: 21300044
+      rural-tileset-tilex2_220: 21300440
+      rural-tileset-tilex2_221: 21300442
+      rural-tileset-tilex2_222: 21300444
+      rural-tileset-tilex2_223: 21300446
+      rural-tileset-tilex2_224: 21300448
+      rural-tileset-tilex2_225: 21300450
+      rural-tileset-tilex2_226: 21300452
+      rural-tileset-tilex2_227: 21300454
+      rural-tileset-tilex2_228: 21300456
+      rural-tileset-tilex2_229: 21300458
+      rural-tileset-tilex2_23: 21300046
+      rural-tileset-tilex2_230: 21300460
+      rural-tileset-tilex2_231: 21300462
+      rural-tileset-tilex2_232: 21300464
+      rural-tileset-tilex2_233: 21300466
+      rural-tileset-tilex2_234: 21300468
+      rural-tileset-tilex2_235: 21300470
+      rural-tileset-tilex2_236: 21300472
+      rural-tileset-tilex2_237: 21300474
+      rural-tileset-tilex2_238: 21300476
+      rural-tileset-tilex2_239: 21300478
+      rural-tileset-tilex2_24: 21300048
+      rural-tileset-tilex2_240: 21300480
+      rural-tileset-tilex2_241: 21300482
+      rural-tileset-tilex2_242: 21300484
+      rural-tileset-tilex2_243: 21300486
+      rural-tileset-tilex2_244: 21300488
+      rural-tileset-tilex2_245: 21300490
+      rural-tileset-tilex2_246: 21300492
+      rural-tileset-tilex2_247: 21300494
+      rural-tileset-tilex2_248: 21300496
+      rural-tileset-tilex2_249: 21300498
+      rural-tileset-tilex2_25: 21300050
+      rural-tileset-tilex2_250: 21300500
+      rural-tileset-tilex2_251: 21300502
+      rural-tileset-tilex2_252: 21300504
+      rural-tileset-tilex2_253: 21300506
+      rural-tileset-tilex2_254: 21300508
+      rural-tileset-tilex2_26: 21300052
+      rural-tileset-tilex2_27: 21300054
+      rural-tileset-tilex2_28: 21300056
+      rural-tileset-tilex2_29: 21300058
+      rural-tileset-tilex2_3: 21300006
+      rural-tileset-tilex2_30: 21300060
+      rural-tileset-tilex2_31: 21300062
+      rural-tileset-tilex2_32: 21300064
+      rural-tileset-tilex2_33: 21300066
+      rural-tileset-tilex2_34: 21300068
+      rural-tileset-tilex2_35: 21300070
+      rural-tileset-tilex2_36: 21300072
+      rural-tileset-tilex2_37: 21300074
+      rural-tileset-tilex2_38: 21300076
+      rural-tileset-tilex2_39: 21300078
+      rural-tileset-tilex2_4: 21300008
+      rural-tileset-tilex2_40: 21300080
+      rural-tileset-tilex2_41: 21300082
+      rural-tileset-tilex2_42: 21300084
+      rural-tileset-tilex2_43: 21300086
+      rural-tileset-tilex2_44: 21300088
+      rural-tileset-tilex2_45: 21300090
+      rural-tileset-tilex2_46: 21300092
+      rural-tileset-tilex2_47: 21300094
+      rural-tileset-tilex2_48: 21300096
+      rural-tileset-tilex2_49: 21300098
+      rural-tileset-tilex2_5: 21300010
+      rural-tileset-tilex2_50: 21300100
+      rural-tileset-tilex2_51: 21300102
+      rural-tileset-tilex2_52: 21300104
+      rural-tileset-tilex2_53: 21300106
+      rural-tileset-tilex2_54: 21300108
+      rural-tileset-tilex2_55: 21300110
+      rural-tileset-tilex2_56: 21300112
+      rural-tileset-tilex2_57: 21300114
+      rural-tileset-tilex2_58: 21300116
+      rural-tileset-tilex2_59: 21300118
+      rural-tileset-tilex2_6: 21300012
+      rural-tileset-tilex2_60: 21300120
+      rural-tileset-tilex2_61: 21300122
+      rural-tileset-tilex2_62: 21300124
+      rural-tileset-tilex2_63: 21300126
+      rural-tileset-tilex2_64: 21300128
+      rural-tileset-tilex2_65: 21300130
+      rural-tileset-tilex2_66: 21300132
+      rural-tileset-tilex2_67: 21300134
+      rural-tileset-tilex2_68: 21300136
+      rural-tileset-tilex2_69: 21300138
+      rural-tileset-tilex2_7: 21300014
+      rural-tileset-tilex2_70: 21300140
+      rural-tileset-tilex2_71: 21300142
+      rural-tileset-tilex2_72: 21300144
+      rural-tileset-tilex2_73: 21300146
+      rural-tileset-tilex2_74: 21300148
+      rural-tileset-tilex2_75: 21300150
+      rural-tileset-tilex2_76: 21300152
+      rural-tileset-tilex2_77: 21300154
+      rural-tileset-tilex2_78: 21300156
+      rural-tileset-tilex2_79: 21300158
+      rural-tileset-tilex2_8: 21300016
+      rural-tileset-tilex2_80: 21300160
+      rural-tileset-tilex2_81: 21300162
+      rural-tileset-tilex2_82: 21300164
+      rural-tileset-tilex2_83: 21300166
+      rural-tileset-tilex2_84: 21300168
+      rural-tileset-tilex2_85: 21300170
+      rural-tileset-tilex2_86: 21300172
+      rural-tileset-tilex2_87: 21300174
+      rural-tileset-tilex2_88: 21300176
+      rural-tileset-tilex2_89: 21300178
+      rural-tileset-tilex2_9: 21300018
+      rural-tileset-tilex2_90: 21300180
+      rural-tileset-tilex2_91: 21300182
+      rural-tileset-tilex2_92: 21300184
+      rural-tileset-tilex2_93: 21300186
+      rural-tileset-tilex2_94: 21300188
+      rural-tileset-tilex2_95: 21300190
+      rural-tileset-tilex2_96: 21300192
+      rural-tileset-tilex2_97: 21300194
+      rural-tileset-tilex2_98: 21300196
+      rural-tileset-tilex2_99: 21300198
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

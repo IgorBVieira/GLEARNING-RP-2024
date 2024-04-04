@@ -1,97 +1,273 @@
 fileFormatVersion: 2
 guid: 9d423b2d2acff634a940c9dfb1530dca
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: december_doors_by_nicnubill-d7128ej_0
-    21300002: december_doors_by_nicnubill-d7128ej_1
-    21300004: december_doors_by_nicnubill-d7128ej_2
-    21300006: december_doors_by_nicnubill-d7128ej_3
-    21300008: december_doors_by_nicnubill-d7128ej_4
-    21300010: december_doors_by_nicnubill-d7128ej_5
-    21300012: december_doors_by_nicnubill-d7128ej_6
-    21300014: december_doors_by_nicnubill-d7128ej_7
-    21300016: december_doors_by_nicnubill-d7128ej_8
-    21300018: december_doors_by_nicnubill-d7128ej_9
-    21300020: december_doors_by_nicnubill-d7128ej_10
-    21300022: december_doors_by_nicnubill-d7128ej_11
-    21300024: december_doors_by_nicnubill-d7128ej_12
-    21300026: december_doors_by_nicnubill-d7128ej_13
-    21300028: december_doors_by_nicnubill-d7128ej_14
-    21300030: december_doors_by_nicnubill-d7128ej_15
-    21300032: december_doors_by_nicnubill-d7128ej_16
-    21300034: december_doors_by_nicnubill-d7128ej_17
-    21300036: december_doors_by_nicnubill-d7128ej_18
-    21300038: december_doors_by_nicnubill-d7128ej_19
-    21300040: december_doors_by_nicnubill-d7128ej_20
-    21300042: december_doors_by_nicnubill-d7128ej_21
-    21300044: december_doors_by_nicnubill-d7128ej_22
-    21300046: december_doors_by_nicnubill-d7128ej_23
-    21300048: december_doors_by_nicnubill-d7128ej_24
-    21300050: december_doors_by_nicnubill-d7128ej_25
-    21300052: december_doors_by_nicnubill-d7128ej_26
-    21300054: december_doors_by_nicnubill-d7128ej_27
-    21300056: december_doors_by_nicnubill-d7128ej_28
-    21300058: december_doors_by_nicnubill-d7128ej_29
-    21300060: december_doors_by_nicnubill-d7128ej_30
-    21300062: december_doors_by_nicnubill-d7128ej_31
-    21300064: december_doors_by_nicnubill-d7128ej_32
-    21300066: december_doors_by_nicnubill-d7128ej_33
-    21300068: december_doors_by_nicnubill-d7128ej_34
-    21300070: december_doors_by_nicnubill-d7128ej_35
-    21300072: december_doors_by_nicnubill-d7128ej_36
-    21300074: december_doors_by_nicnubill-d7128ej_37
-    21300076: december_doors_by_nicnubill-d7128ej_38
-    21300078: december_doors_by_nicnubill-d7128ej_39
-    21300080: december_doors_by_nicnubill-d7128ej_40
-    21300082: december_doors_by_nicnubill-d7128ej_41
-    21300084: december_doors_by_nicnubill-d7128ej_42
-    21300086: december_doors_by_nicnubill-d7128ej_43
-    21300088: december_doors_by_nicnubill-d7128ej_44
-    21300090: december_doors_by_nicnubill-d7128ej_45
-    21300092: december_doors_by_nicnubill-d7128ej_46
-    21300094: december_doors_by_nicnubill-d7128ej_47
-    21300096: december_doors_by_nicnubill-d7128ej_48
-    21300098: december_doors_by_nicnubill-d7128ej_49
-    21300100: december_doors_by_nicnubill-d7128ej_50
-    21300102: december_doors_by_nicnubill-d7128ej_51
-    21300104: december_doors_by_nicnubill-d7128ej_52
-    21300106: december_doors_by_nicnubill-d7128ej_53
-    21300108: december_doors_by_nicnubill-d7128ej_54
-    21300110: december_doors_by_nicnubill-d7128ej_55
-    21300112: december_doors_by_nicnubill-d7128ej_56
-    21300114: december_doors_by_nicnubill-d7128ej_57
-    21300116: december_doors_by_nicnubill-d7128ej_58
-    21300118: december_doors_by_nicnubill-d7128ej_59
-    21300120: december_doors_by_nicnubill-d7128ej_60
-    21300122: december_doors_by_nicnubill-d7128ej_61
-    21300124: december_doors_by_nicnubill-d7128ej_62
-    21300126: december_doors_by_nicnubill-d7128ej_63
-    21300128: december_doors_by_nicnubill-d7128ej_64
-    21300130: december_doors_by_nicnubill-d7128ej_65
-    21300132: december_doors_by_nicnubill-d7128ej_66
-    21300134: december_doors_by_nicnubill-d7128ej_67
-    21300136: december_doors_by_nicnubill-d7128ej_68
-    21300138: december_doors_by_nicnubill-d7128ej_69
-    21300140: december_doors_by_nicnubill-d7128ej_70
-    21300142: december_doors_by_nicnubill-d7128ej_71
-    21300144: december_doors_by_nicnubill-d7128ej_72
-    21300146: december_doors_by_nicnubill-d7128ej_73
-    21300148: december_doors_by_nicnubill-d7128ej_74
-    21300150: december_doors_by_nicnubill-d7128ej_75
-    21300152: december_doors_by_nicnubill-d7128ej_76
-    21300154: december_doors_by_nicnubill-d7128ej_77
-    21300156: december_doors_by_nicnubill-d7128ej_78
-    21300158: december_doors_by_nicnubill-d7128ej_79
-    21300160: december_doors_by_nicnubill-d7128ej_80
-    21300162: december_doors_by_nicnubill-d7128ej_81
-    21300164: december_doors_by_nicnubill-d7128ej_82
-    21300166: december_doors_by_nicnubill-d7128ej_83
-    21300168: december_doors_by_nicnubill-d7128ej_84
-    21300170: december_doors_by_nicnubill-d7128ej_85
-    21300172: december_doors_by_nicnubill-d7128ej_86
-    21300174: december_doors_by_nicnubill-d7128ej_87
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: december_doors_by_nicnubill-d7128ej_0
+  - first:
+      213: 21300002
+    second: december_doors_by_nicnubill-d7128ej_1
+  - first:
+      213: 21300004
+    second: december_doors_by_nicnubill-d7128ej_2
+  - first:
+      213: 21300006
+    second: december_doors_by_nicnubill-d7128ej_3
+  - first:
+      213: 21300008
+    second: december_doors_by_nicnubill-d7128ej_4
+  - first:
+      213: 21300010
+    second: december_doors_by_nicnubill-d7128ej_5
+  - first:
+      213: 21300012
+    second: december_doors_by_nicnubill-d7128ej_6
+  - first:
+      213: 21300014
+    second: december_doors_by_nicnubill-d7128ej_7
+  - first:
+      213: 21300016
+    second: december_doors_by_nicnubill-d7128ej_8
+  - first:
+      213: 21300018
+    second: december_doors_by_nicnubill-d7128ej_9
+  - first:
+      213: 21300020
+    second: december_doors_by_nicnubill-d7128ej_10
+  - first:
+      213: 21300022
+    second: december_doors_by_nicnubill-d7128ej_11
+  - first:
+      213: 21300024
+    second: december_doors_by_nicnubill-d7128ej_12
+  - first:
+      213: 21300026
+    second: december_doors_by_nicnubill-d7128ej_13
+  - first:
+      213: 21300028
+    second: december_doors_by_nicnubill-d7128ej_14
+  - first:
+      213: 21300030
+    second: december_doors_by_nicnubill-d7128ej_15
+  - first:
+      213: 21300032
+    second: december_doors_by_nicnubill-d7128ej_16
+  - first:
+      213: 21300034
+    second: december_doors_by_nicnubill-d7128ej_17
+  - first:
+      213: 21300036
+    second: december_doors_by_nicnubill-d7128ej_18
+  - first:
+      213: 21300038
+    second: december_doors_by_nicnubill-d7128ej_19
+  - first:
+      213: 21300040
+    second: december_doors_by_nicnubill-d7128ej_20
+  - first:
+      213: 21300042
+    second: december_doors_by_nicnubill-d7128ej_21
+  - first:
+      213: 21300044
+    second: december_doors_by_nicnubill-d7128ej_22
+  - first:
+      213: 21300046
+    second: december_doors_by_nicnubill-d7128ej_23
+  - first:
+      213: 21300048
+    second: december_doors_by_nicnubill-d7128ej_24
+  - first:
+      213: 21300050
+    second: december_doors_by_nicnubill-d7128ej_25
+  - first:
+      213: 21300052
+    second: december_doors_by_nicnubill-d7128ej_26
+  - first:
+      213: 21300054
+    second: december_doors_by_nicnubill-d7128ej_27
+  - first:
+      213: 21300056
+    second: december_doors_by_nicnubill-d7128ej_28
+  - first:
+      213: 21300058
+    second: december_doors_by_nicnubill-d7128ej_29
+  - first:
+      213: 21300060
+    second: december_doors_by_nicnubill-d7128ej_30
+  - first:
+      213: 21300062
+    second: december_doors_by_nicnubill-d7128ej_31
+  - first:
+      213: 21300064
+    second: december_doors_by_nicnubill-d7128ej_32
+  - first:
+      213: 21300066
+    second: december_doors_by_nicnubill-d7128ej_33
+  - first:
+      213: 21300068
+    second: december_doors_by_nicnubill-d7128ej_34
+  - first:
+      213: 21300070
+    second: december_doors_by_nicnubill-d7128ej_35
+  - first:
+      213: 21300072
+    second: december_doors_by_nicnubill-d7128ej_36
+  - first:
+      213: 21300074
+    second: december_doors_by_nicnubill-d7128ej_37
+  - first:
+      213: 21300076
+    second: december_doors_by_nicnubill-d7128ej_38
+  - first:
+      213: 21300078
+    second: december_doors_by_nicnubill-d7128ej_39
+  - first:
+      213: 21300080
+    second: december_doors_by_nicnubill-d7128ej_40
+  - first:
+      213: 21300082
+    second: december_doors_by_nicnubill-d7128ej_41
+  - first:
+      213: 21300084
+    second: december_doors_by_nicnubill-d7128ej_42
+  - first:
+      213: 21300086
+    second: december_doors_by_nicnubill-d7128ej_43
+  - first:
+      213: 21300088
+    second: december_doors_by_nicnubill-d7128ej_44
+  - first:
+      213: 21300090
+    second: december_doors_by_nicnubill-d7128ej_45
+  - first:
+      213: 21300092
+    second: december_doors_by_nicnubill-d7128ej_46
+  - first:
+      213: 21300094
+    second: december_doors_by_nicnubill-d7128ej_47
+  - first:
+      213: 21300096
+    second: december_doors_by_nicnubill-d7128ej_48
+  - first:
+      213: 21300098
+    second: december_doors_by_nicnubill-d7128ej_49
+  - first:
+      213: 21300100
+    second: december_doors_by_nicnubill-d7128ej_50
+  - first:
+      213: 21300102
+    second: december_doors_by_nicnubill-d7128ej_51
+  - first:
+      213: 21300104
+    second: december_doors_by_nicnubill-d7128ej_52
+  - first:
+      213: 21300106
+    second: december_doors_by_nicnubill-d7128ej_53
+  - first:
+      213: 21300108
+    second: december_doors_by_nicnubill-d7128ej_54
+  - first:
+      213: 21300110
+    second: december_doors_by_nicnubill-d7128ej_55
+  - first:
+      213: 21300112
+    second: december_doors_by_nicnubill-d7128ej_56
+  - first:
+      213: 21300114
+    second: december_doors_by_nicnubill-d7128ej_57
+  - first:
+      213: 21300116
+    second: december_doors_by_nicnubill-d7128ej_58
+  - first:
+      213: 21300118
+    second: december_doors_by_nicnubill-d7128ej_59
+  - first:
+      213: 21300120
+    second: december_doors_by_nicnubill-d7128ej_60
+  - first:
+      213: 21300122
+    second: december_doors_by_nicnubill-d7128ej_61
+  - first:
+      213: 21300124
+    second: december_doors_by_nicnubill-d7128ej_62
+  - first:
+      213: 21300126
+    second: december_doors_by_nicnubill-d7128ej_63
+  - first:
+      213: 21300128
+    second: december_doors_by_nicnubill-d7128ej_64
+  - first:
+      213: 21300130
+    second: december_doors_by_nicnubill-d7128ej_65
+  - first:
+      213: 21300132
+    second: december_doors_by_nicnubill-d7128ej_66
+  - first:
+      213: 21300134
+    second: december_doors_by_nicnubill-d7128ej_67
+  - first:
+      213: 21300136
+    second: december_doors_by_nicnubill-d7128ej_68
+  - first:
+      213: 21300138
+    second: december_doors_by_nicnubill-d7128ej_69
+  - first:
+      213: 21300140
+    second: december_doors_by_nicnubill-d7128ej_70
+  - first:
+      213: 21300142
+    second: december_doors_by_nicnubill-d7128ej_71
+  - first:
+      213: 21300144
+    second: december_doors_by_nicnubill-d7128ej_72
+  - first:
+      213: 21300146
+    second: december_doors_by_nicnubill-d7128ej_73
+  - first:
+      213: 21300148
+    second: december_doors_by_nicnubill-d7128ej_74
+  - first:
+      213: 21300150
+    second: december_doors_by_nicnubill-d7128ej_75
+  - first:
+      213: 21300152
+    second: december_doors_by_nicnubill-d7128ej_76
+  - first:
+      213: 21300154
+    second: december_doors_by_nicnubill-d7128ej_77
+  - first:
+      213: 21300156
+    second: december_doors_by_nicnubill-d7128ej_78
+  - first:
+      213: 21300158
+    second: december_doors_by_nicnubill-d7128ej_79
+  - first:
+      213: 21300160
+    second: december_doors_by_nicnubill-d7128ej_80
+  - first:
+      213: 21300162
+    second: december_doors_by_nicnubill-d7128ej_81
+  - first:
+      213: 21300164
+    second: december_doors_by_nicnubill-d7128ej_82
+  - first:
+      213: 21300166
+    second: december_doors_by_nicnubill-d7128ej_83
+  - first:
+      213: 21300168
+    second: december_doors_by_nicnubill-d7128ej_84
+  - first:
+      213: 21300170
+    second: december_doors_by_nicnubill-d7128ej_85
+  - first:
+      213: 21300172
+    second: december_doors_by_nicnubill-d7128ej_86
+  - first:
+      213: 21300174
+    second: december_doors_by_nicnubill-d7128ej_87
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -108,9 +284,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -120,8 +299,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -142,11 +321,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -156,8 +341,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -167,7 +354,22 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -187,6 +389,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d8cb6121c3caa7746a2bb7d403580df3
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -207,6 +410,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b1ec0f48fd47fbf4ba7b2ab6fee63c48
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -227,6 +431,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9361ed0f6131392479bccebdcfcd639e
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -247,6 +452,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a161459c90ed3df42bd3d647de7bb96c
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -267,6 +473,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c9b66fe32dc6d2f44af689888eacf787
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -287,6 +494,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 850651af7a2eed44e8f189e938863971
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -307,6 +515,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9d95194a1a0681843b28ed6d123a9a8f
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -327,6 +536,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3daec48aa13ed5446a81536754f53f40
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -347,6 +557,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3ae4710305b5d6c47a6e38bc24813aa5
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -367,6 +578,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: de31d34d5d7f89b479c6364c542a2118
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -387,6 +599,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 40a3a0cd88d500f4fa431926a6179b22
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -407,6 +620,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 312934be38833e14bb81a3497613f9bb
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -427,6 +641,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1f2d2a2f6ca450e4389335cf50028e82
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -447,6 +662,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 60978e641c5e09246b4c22496c78662b
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -467,6 +683,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 426bc3638851d1c4987d670da58db51e
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -487,6 +704,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 11a00c82ed73a0a48bf6e6f6115a61d6
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -507,6 +725,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 80672437e8b8d6d4cbb597f29c21c609
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -527,6 +746,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 52ffb3f35626824478c5619cc3236c76
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -547,6 +767,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 199b9bb037db3374ba25a458eed15fbd
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -567,6 +788,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 27645dea6f9c7734fb60600ed0cdd894
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -587,6 +809,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7c1e81fd800d96744a8e608344bc9774
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -607,6 +830,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e0dc67425293d7745aa5ce9ddedaa311
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -627,6 +851,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b475381506b80d8439e2bc6ea44b9545
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -647,6 +872,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e5e58f03a9dc17f45805acda12b90a35
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -667,6 +893,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0c5e86ef3286dbf4cac0381c186e6501
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -687,6 +914,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8c32fc86823c164d94fa506866348d8
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -707,6 +935,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3801b27ed4604eb43b414e6bd238e120
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -727,6 +956,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4df9e5cff4dc39d41af5a3df3236e530
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -747,6 +977,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a27d3e36d0185564cadff1441f86362d
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -767,6 +998,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d549d42372360a84fbb7f2cf7b746be2
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -787,6 +1019,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 13303915674a5c447bb20ad2a6414742
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -807,6 +1040,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7994cfa573b65c147af0e7aebd74d814
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -827,6 +1061,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 96ee543fbab346845a41a76560a4e4e7
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -847,6 +1082,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4fa2a78a45521b149b9d79b664923d69
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -867,6 +1103,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 64f179b04e3e064468a6988a8e9e1fb9
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -887,6 +1124,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a2491eabb04766b4fa818ec53b04b385
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -907,6 +1145,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e2fe07034acfd5047b2c627d587846a3
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -927,6 +1166,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 22ad9c22f4d5d2949b7dd84c3385a6e3
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -947,6 +1187,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9146b0107a9456b4896dc981b61862ac
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -967,6 +1208,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4395375d1e406274ea2e1b005053666d
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -987,6 +1229,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 45d2429fe8d7a18469469fa1e825ed67
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -1007,6 +1250,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5e05710cc2e5cfd42b7fe30ab541b36c
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -1027,6 +1271,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7c8e8da9d27f9e5478d0a8c048b347ed
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
@@ -1047,6 +1292,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0ff2ed215b348bc4a9b5e298458177e0
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -1067,6 +1313,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fe54fdfe7b8870e46a26829240f0cb03
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
@@ -1087,6 +1334,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 946d5c6f69e7cd142aa2651ee139f402
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
@@ -1107,6 +1355,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ce59e64602a4c54e8b9931bf601cfb4
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
@@ -1127,6 +1376,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 06a3eb9ed7348a745a468212e149441e
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
@@ -1147,6 +1397,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8c371f8440613ae4e9d97158ccc7c420
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -1167,6 +1418,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4d2f53115032cff4194d599d65bb93a5
+      internalID: 21300098
       vertices: []
       indices: 
       edges: []
@@ -1187,6 +1439,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5d9b6148e0be29a498253a5a62c97857
+      internalID: 21300100
       vertices: []
       indices: 
       edges: []
@@ -1207,6 +1460,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 381bb990813753d4a913f62a5a5dd4fc
+      internalID: 21300102
       vertices: []
       indices: 
       edges: []
@@ -1227,6 +1481,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4711c769b4623db4b8b2243cd4019007
+      internalID: 21300104
       vertices: []
       indices: 
       edges: []
@@ -1247,6 +1502,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dbd5ea2a39367774caeb8437711bd261
+      internalID: 21300106
       vertices: []
       indices: 
       edges: []
@@ -1267,6 +1523,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ac18ef7ff33fd5f4f9fce739b9910307
+      internalID: 21300108
       vertices: []
       indices: 
       edges: []
@@ -1287,6 +1544,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0614f6a83285bb342b8e124c54bd30e4
+      internalID: 21300110
       vertices: []
       indices: 
       edges: []
@@ -1307,6 +1565,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fb3b7e507789e5b468d4a45846c402c1
+      internalID: 21300112
       vertices: []
       indices: 
       edges: []
@@ -1327,6 +1586,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: df9ac83147a2428418422a4db243546d
+      internalID: 21300114
       vertices: []
       indices: 
       edges: []
@@ -1347,6 +1607,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9fa72503192dc6a4181d5219d399b16c
+      internalID: 21300116
       vertices: []
       indices: 
       edges: []
@@ -1367,6 +1628,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cdf5142358a07474b9070cb62cf6d19f
+      internalID: 21300118
       vertices: []
       indices: 
       edges: []
@@ -1387,6 +1649,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6fae3eb7a69f6414f8d34e9a1fffe8fc
+      internalID: 21300120
       vertices: []
       indices: 
       edges: []
@@ -1407,6 +1670,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cd77d9d2a8086644aa47a58f3778a8bd
+      internalID: 21300122
       vertices: []
       indices: 
       edges: []
@@ -1427,6 +1691,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 01c0ca2c115af444e8da252231ba90d9
+      internalID: 21300124
       vertices: []
       indices: 
       edges: []
@@ -1447,6 +1712,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c84fa7a7618ff6646a3ab50b2285a790
+      internalID: 21300126
       vertices: []
       indices: 
       edges: []
@@ -1467,6 +1733,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2b51a797b2d5c2343877f509ce44b18f
+      internalID: 21300128
       vertices: []
       indices: 
       edges: []
@@ -1487,6 +1754,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f53a6e571b69e884da78aff70322d8d4
+      internalID: 21300130
       vertices: []
       indices: 
       edges: []
@@ -1507,6 +1775,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: de1e3f4918c959c4daf2587fdbfa3c47
+      internalID: 21300132
       vertices: []
       indices: 
       edges: []
@@ -1527,6 +1796,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 074bd54ddea6072459828f0b2a1d63a7
+      internalID: 21300134
       vertices: []
       indices: 
       edges: []
@@ -1547,6 +1817,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cd726261bda0b9040be1079e84f6d935
+      internalID: 21300136
       vertices: []
       indices: 
       edges: []
@@ -1567,6 +1838,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a848cc53b8fcc8340b0e47627932aab2
+      internalID: 21300138
       vertices: []
       indices: 
       edges: []
@@ -1587,6 +1859,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 58a25d9ea2180f049b088b69c9749fa4
+      internalID: 21300140
       vertices: []
       indices: 
       edges: []
@@ -1607,6 +1880,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb3706c22ca432f489208385239474c5
+      internalID: 21300142
       vertices: []
       indices: 
       edges: []
@@ -1627,6 +1901,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c573b8b10d948a546b4acc140a5dc951
+      internalID: 21300144
       vertices: []
       indices: 
       edges: []
@@ -1647,6 +1922,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fdc98618d1245ac4a918226a60340b8e
+      internalID: 21300146
       vertices: []
       indices: 
       edges: []
@@ -1667,6 +1943,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c165ce367e9bee14da35484ebcb85acd
+      internalID: 21300148
       vertices: []
       indices: 
       edges: []
@@ -1687,6 +1964,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3eae83c3490e0c04b955b60cb74a30d6
+      internalID: 21300150
       vertices: []
       indices: 
       edges: []
@@ -1707,6 +1985,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 90c3f18f775a04941b4cdb7f5a13d92d
+      internalID: 21300152
       vertices: []
       indices: 
       edges: []
@@ -1727,6 +2006,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 26c8f9fb688e3564ba32d25d3c81d966
+      internalID: 21300154
       vertices: []
       indices: 
       edges: []
@@ -1747,6 +2027,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 58297cbdf7b0b9347b14daa9ffcab501
+      internalID: 21300156
       vertices: []
       indices: 
       edges: []
@@ -1767,6 +2048,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ab7cb9c902292b2489f1832c64817a44
+      internalID: 21300158
       vertices: []
       indices: 
       edges: []
@@ -1787,6 +2069,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6bf00fd7f5dba894abbcf17a13f32cf5
+      internalID: 21300160
       vertices: []
       indices: 
       edges: []
@@ -1807,6 +2090,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb809ef6601247243bc15a23d666b152
+      internalID: 21300162
       vertices: []
       indices: 
       edges: []
@@ -1827,6 +2111,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 00d92ed14d584564985ce2f56846a6d6
+      internalID: 21300164
       vertices: []
       indices: 
       edges: []
@@ -1847,6 +2132,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 871c9622f26e23d46873cfaa874ed425
+      internalID: 21300166
       vertices: []
       indices: 
       edges: []
@@ -1867,6 +2153,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e128116859835e34e91b4aa872b41d1e
+      internalID: 21300168
       vertices: []
       indices: 
       edges: []
@@ -1887,6 +2174,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0e9f2bb64fca784459b9208a220cb3b4
+      internalID: 21300170
       vertices: []
       indices: 
       edges: []
@@ -1907,6 +2195,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2b5d3a832a930ef4f802ac246085b06d
+      internalID: 21300172
       vertices: []
       indices: 
       edges: []
@@ -1927,6 +2216,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 94bdc73988b7f4547a00c73073491216
+      internalID: 21300174
       vertices: []
       indices: 
       edges: []
@@ -1935,13 +2225,103 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+    secondaryTextures: []
+    nameFileIdTable:
+      december_doors_by_nicnubill-d7128ej_0: 21300000
+      december_doors_by_nicnubill-d7128ej_1: 21300002
+      december_doors_by_nicnubill-d7128ej_10: 21300020
+      december_doors_by_nicnubill-d7128ej_11: 21300022
+      december_doors_by_nicnubill-d7128ej_12: 21300024
+      december_doors_by_nicnubill-d7128ej_13: 21300026
+      december_doors_by_nicnubill-d7128ej_14: 21300028
+      december_doors_by_nicnubill-d7128ej_15: 21300030
+      december_doors_by_nicnubill-d7128ej_16: 21300032
+      december_doors_by_nicnubill-d7128ej_17: 21300034
+      december_doors_by_nicnubill-d7128ej_18: 21300036
+      december_doors_by_nicnubill-d7128ej_19: 21300038
+      december_doors_by_nicnubill-d7128ej_2: 21300004
+      december_doors_by_nicnubill-d7128ej_20: 21300040
+      december_doors_by_nicnubill-d7128ej_21: 21300042
+      december_doors_by_nicnubill-d7128ej_22: 21300044
+      december_doors_by_nicnubill-d7128ej_23: 21300046
+      december_doors_by_nicnubill-d7128ej_24: 21300048
+      december_doors_by_nicnubill-d7128ej_25: 21300050
+      december_doors_by_nicnubill-d7128ej_26: 21300052
+      december_doors_by_nicnubill-d7128ej_27: 21300054
+      december_doors_by_nicnubill-d7128ej_28: 21300056
+      december_doors_by_nicnubill-d7128ej_29: 21300058
+      december_doors_by_nicnubill-d7128ej_3: 21300006
+      december_doors_by_nicnubill-d7128ej_30: 21300060
+      december_doors_by_nicnubill-d7128ej_31: 21300062
+      december_doors_by_nicnubill-d7128ej_32: 21300064
+      december_doors_by_nicnubill-d7128ej_33: 21300066
+      december_doors_by_nicnubill-d7128ej_34: 21300068
+      december_doors_by_nicnubill-d7128ej_35: 21300070
+      december_doors_by_nicnubill-d7128ej_36: 21300072
+      december_doors_by_nicnubill-d7128ej_37: 21300074
+      december_doors_by_nicnubill-d7128ej_38: 21300076
+      december_doors_by_nicnubill-d7128ej_39: 21300078
+      december_doors_by_nicnubill-d7128ej_4: 21300008
+      december_doors_by_nicnubill-d7128ej_40: 21300080
+      december_doors_by_nicnubill-d7128ej_41: 21300082
+      december_doors_by_nicnubill-d7128ej_42: 21300084
+      december_doors_by_nicnubill-d7128ej_43: 21300086
+      december_doors_by_nicnubill-d7128ej_44: 21300088
+      december_doors_by_nicnubill-d7128ej_45: 21300090
+      december_doors_by_nicnubill-d7128ej_46: 21300092
+      december_doors_by_nicnubill-d7128ej_47: 21300094
+      december_doors_by_nicnubill-d7128ej_48: 21300096
+      december_doors_by_nicnubill-d7128ej_49: 21300098
+      december_doors_by_nicnubill-d7128ej_5: 21300010
+      december_doors_by_nicnubill-d7128ej_50: 21300100
+      december_doors_by_nicnubill-d7128ej_51: 21300102
+      december_doors_by_nicnubill-d7128ej_52: 21300104
+      december_doors_by_nicnubill-d7128ej_53: 21300106
+      december_doors_by_nicnubill-d7128ej_54: 21300108
+      december_doors_by_nicnubill-d7128ej_55: 21300110
+      december_doors_by_nicnubill-d7128ej_56: 21300112
+      december_doors_by_nicnubill-d7128ej_57: 21300114
+      december_doors_by_nicnubill-d7128ej_58: 21300116
+      december_doors_by_nicnubill-d7128ej_59: 21300118
+      december_doors_by_nicnubill-d7128ej_6: 21300012
+      december_doors_by_nicnubill-d7128ej_60: 21300120
+      december_doors_by_nicnubill-d7128ej_61: 21300122
+      december_doors_by_nicnubill-d7128ej_62: 21300124
+      december_doors_by_nicnubill-d7128ej_63: 21300126
+      december_doors_by_nicnubill-d7128ej_64: 21300128
+      december_doors_by_nicnubill-d7128ej_65: 21300130
+      december_doors_by_nicnubill-d7128ej_66: 21300132
+      december_doors_by_nicnubill-d7128ej_67: 21300134
+      december_doors_by_nicnubill-d7128ej_68: 21300136
+      december_doors_by_nicnubill-d7128ej_69: 21300138
+      december_doors_by_nicnubill-d7128ej_7: 21300014
+      december_doors_by_nicnubill-d7128ej_70: 21300140
+      december_doors_by_nicnubill-d7128ej_71: 21300142
+      december_doors_by_nicnubill-d7128ej_72: 21300144
+      december_doors_by_nicnubill-d7128ej_73: 21300146
+      december_doors_by_nicnubill-d7128ej_74: 21300148
+      december_doors_by_nicnubill-d7128ej_75: 21300150
+      december_doors_by_nicnubill-d7128ej_76: 21300152
+      december_doors_by_nicnubill-d7128ej_77: 21300154
+      december_doors_by_nicnubill-d7128ej_78: 21300156
+      december_doors_by_nicnubill-d7128ej_79: 21300158
+      december_doors_by_nicnubill-d7128ej_8: 21300016
+      december_doors_by_nicnubill-d7128ej_80: 21300160
+      december_doors_by_nicnubill-d7128ej_81: 21300162
+      december_doors_by_nicnubill-d7128ej_82: 21300164
+      december_doors_by_nicnubill-d7128ej_83: 21300166
+      december_doors_by_nicnubill-d7128ej_84: 21300168
+      december_doors_by_nicnubill-d7128ej_85: 21300170
+      december_doors_by_nicnubill-d7128ej_86: 21300172
+      december_doors_by_nicnubill-d7128ej_87: 21300174
+      december_doors_by_nicnubill-d7128ej_9: 21300018
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

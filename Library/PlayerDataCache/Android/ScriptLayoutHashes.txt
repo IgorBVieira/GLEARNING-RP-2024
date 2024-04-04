@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/caior/Desktop/glearning_pre_alpha.apk
+C:/Users/ExoNox/Dev/Apks/64bitsmanifest.apk
 SceneListBegin?
 Assets/Scenes/telaLogin.unity
 Assets/Scenes/telaCadastro.unity
@@ -140,8 +140,6 @@ e67ee07a3a02189a2b7bdecb3201ab04 Assembly-CSharp.dll:.Classe_Paginas_Licao6_Atv1
 64fce87c68e620e8af37468f56a36bea Assembly-CSharp.dll:.Classe_Hotel_Licao3_Atv1
 53ae9f80f9a4f8a64e6418c1008dc1fd Assembly-CSharp-firstpass.dll:SimpleInputNamespace.MouseButtonInputSwipeGesture
 2c16029a5fee7c0a5e14683ec776d953 Assembly-CSharp.dll:.Classe_Controle_Licao3_Atv1
-303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
-7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 bd919d562c27aeaf034dfd2165ddedd6 Assembly-CSharp-firstpass.dll:SimpleInputNamespace.Dpad
 e4138598a30e2d8011d80915f62f3081 Assembly-CSharp-firstpass.dll:SimpleInputNamespace.AxisInputUI
 b8a5e8091ab0b8861d2add371082c5e0 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
@@ -151,7 +149,6 @@ f8809a8b93dcfdb58ac14ae0dfad21e4 Assembly-CSharp-firstpass.dll:SimpleInputNamesp
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Movimentacao_Simples_Objetos_Vertical
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 07340dc3493dccaa83b645db5e5d5513 Assembly-CSharp-firstpass.dll:SimpleInputNamespace.MouseButtonInputUI
-71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Analytics.Editor.dll:UnityEditor.Analytics.AnalyticsEventTrackerEditor
 2f6f19734bcf5d41f9c64ae4b684d7ee Assembly-CSharp-firstpass.dll:SimpleInputNamespace.Joystick
 5d72f7002966b891d5cb66f953848ebe Assembly-CSharp-firstpass.dll:IngameDebugConsole.DebugLogRecycledListView
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
