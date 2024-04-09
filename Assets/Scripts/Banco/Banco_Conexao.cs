@@ -5,15 +5,15 @@ using MySql.Data.MySqlClient;
 public class Banco_Conexao {
 
 	private string linhaConexao = @"
-	Server=sql10.freemysqlhosting.net;
-	Port=3306;
-	Database=sql10692791;
-	Uid=sql10692791;
-	Pwd=w2RYBidDvh;
+	Server=ryk.h.filess.io;
+	Port=3307;
+	Database=glearning_tryaverage;
+	Uid=glearning_tryaverage;
+	Pwd=a72c51207b78e1b14486fab69142c41442f89a59;
 	Pooling=false;
 	old guids=true;
 	AllowUserVariables=True;
-	CharSet=latin1";
+	CharSet=utf8mb4";
 
   private static MySqlConnection conexaoBanco;
 	private static string sql;
